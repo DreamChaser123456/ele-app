@@ -14,4 +14,6 @@ npm run serve
 
 cd backend
 python start.py
+
+xiugai 
 ```
