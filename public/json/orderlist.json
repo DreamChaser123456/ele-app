@@ -1,0 +1,3329 @@
+{
+    "_id": "61d5597d9f4491001521dc5e",
+    "user": "5cd437fef7a6970017c415fe",
+    "orderlist": [
+        {
+            "_id": "61d55e889f4491001521dc6c",
+            "orderInfo": {
+                "shopInfo": {
+                    "act_tag": 0,
+                    "activities": [
+                        {
+                            "attribute": "{\"89\": {\"1\": 25.0, \"0\": 0}, \"69\": {\"1\": 10.0, \"0\": 0}}",
+                            "description": "满69减10，满89减25",
+                            "icon_color": "f07373",
+                            "icon_name": "满减",
+                            "id": 2062782186,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "汉堡王满减",
+                            "tips": "满69减10，满89减25",
+                            "type": 102
+                        },
+                        {
+                            "description": "折扣商品5折起",
+                            "icon_color": "f07373",
+                            "icon_name": "折扣",
+                            "id": 2062808259,
+                            "name": "单品折扣",
+                            "tips": "单品折扣"
+                        },
+                        {
+                            "attribute": "17.0",
+                            "description": "新用户下单立减17元(不与其它活动同享)",
+                            "icon_color": "70bc46",
+                            "icon_name": "首单",
+                            "id": 1987742851,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "新用户立减(不与其他活动共享)",
+                            "tips": "新用户下单立减17元(不与其它活动同享)",
+                            "type": 103
+                        },
+                        {
+                            "description": "特价商品9.9元起",
+                            "icon_color": "f1884f",
+                            "icon_name": "特价",
+                            "id": 1998061923,
+                            "name": "超值换购",
+                            "tips": "超值换购"
+                        }
+                    ],
+                    "address": "北京市昌平区回龙观镇北清路1号院6号楼一层6-3-101号",
+                    "albums": [
+                        {
+                            "count": 1,
+                            "cover_image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                            "name": "门面",
+                            "photos": [
+                                {
+                                    "id": 93739202,
+                                    "image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                                    "type": "FRONT"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 2,
+                            "cover_image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                            "name": "大堂",
+                            "photos": [
+                                {
+                                    "id": 93738690,
+                                    "image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                                    "type": "HALL"
+                                },
+                                {
+                                    "id": 93743122,
+                                    "image_hash": "784ab5540ae0b3c4f69a058be8e8949djpeg",
+                                    "type": "HALL"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 1,
+                            "cover_image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                            "name": "后厨",
+                            "photos": [
+                                {
+                                    "id": 93741042,
+                                    "image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                                    "type": "KITCHEN"
+                                }
+                            ]
+                        }
+                    ],
+                    "authentic_id": 2394435224294292,
+                    "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"69减10\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"89减25\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"8元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"9.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"首单减17\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}], \"ad_info\": null}",
+                    "delivery_fee_discount": 4,
+                    "delivery_mode": {
+                        "border": "",
+                        "color": "2395FF",
+                        "gradient": {
+                            "rgb_from": "00AAFF",
+                            "rgb_to": "0085FF"
+                        },
+                        "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                        "id": 1,
+                        "is_solid": true,
+                        "text": "蜂鸟专送",
+                        "text_color": "FFFFFF"
+                    },
+                    "description": "真正火烤，100%牛肉，很有料！",
+                    "distance": 1938,
+                    "favored": false,
+                    "flavors": [
+                        {
+                            "id": 212,
+                            "name": "汉堡"
+                        },
+                        {
+                            "id": 234,
+                            "name": "炸鸡炸串"
+                        }
+                    ],
+                    "float_delivery_fee": 5.5,
+                    "float_minimum_order_amount": 20,
+                    "has_story": true,
+                    "id": "E18031954713391430331",
+                    "image_path": "https://fuss10.elemecdn.com/b/a6/a17f3fea9990d8fbe07e39ad7a2e0png.png",
+                    "is_new": false,
+                    "is_premium": true,
+                    "is_star": true,
+                    "is_stock_empty": 0,
+                    "is_valid": 1,
+                    "latitude": 40.0964491166005,
+                    "longitude": 116.289089641137,
+                    "max_applied_quantity_per_order": 1,
+                    "name": "汉堡王（北京珠江摩尔国际店21157）",
+                    "next_business_time": "明天 08:00",
+                    "only_use_poi": false,
+                    "opening_hours": [
+                        "08:00/22:00"
+                    ],
+                    "order_lead_time": 41,
+                    "out_of_range": false,
+                    "phone": "4008988788",
+                    "piecewise_agent_fee": {
+                        "description": "配送费¥0.5",
+                        "extra_fee": -1.5,
+                        "is_extra": true,
+                        "no_subsidy_fee": "¥4.5",
+                        "rules": [
+                            {
+                                "fee": 0.5,
+                                "price": 20
+                            }
+                        ],
+                        "tips": "配送费¥0.5"
+                    },
+                    "platform": 0,
+                    "posters": [
+                        {
+                            "id": 10034259,
+                            "image_hash": "1cdfca8e6b0bc2ddfbe4c4c5f5b6680fpng",
+                            "name": "春节大套餐活动",
+                            "type": 3,
+                            "url": "eleme://restaurant_promotion?restaurant_id=E18031954713391430331&banner_id=10034259"
+                        }
+                    ],
+                    "promotion_info": "“整块牛排重磅来袭，新年尽情整才牛！”",
+                    "qualification": {
+                        "link": "https://h5.ele.me/shop/certification/#/?restaurant_id=E18031954713391430331"
+                    },
+                    "rating": 4.8,
+                    "rating_count": 543,
+                    "recent_order_num": 2220,
+                    "recommend": {
+                        "color": "#e8470b",
+                        "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+                        "is_ad": false,
+                        "reason": "口碑人气好店"
+                    },
+                    "recommend_reasons": [
+                        {
+                            "name": "味道超赞"
+                        },
+                        {
+                            "name": "回头客多"
+                        }
+                    ],
+                    "regular_customer_count": 0,
+                    "scheme": "https://fuss10.elemecdn.com/3/a2/cf556dccdeb82e83b1acac988c160png.png",
+                    "shop_sign": {
+                        "brand_story": "",
+                        "image_hash": "b9ac419871b7d6c99329878b9ea52fe3png"
+                    },
+                    "status": 1,
+                    "support_tags": [
+                        {
+                            "border": "dddddd",
+                            "color": "666666",
+                            "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                            "text": "汉堡",
+                            "type": 1
+                        }
+                    ],
+                    "supports": [
+                        {
+                            "border": "90dddddd",
+                            "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                            "icon_color": "999999",
+                            "icon_name": "票",
+                            "id": 4,
+                            "name": "开发票",
+                            "text_color": "666666",
+                            "two_characters_icon_name": "发票"
+                        }
+                    ],
+                    "target_tag_path": "d6a7283753e66cad4c4dc9a459d96a7fpng",
+                    "theme": {
+                        "default_color": "2395ff",
+                        "header_style": 3,
+                        "hongbao_style": 0,
+                        "price_color": "ff5339",
+                        "third_tab_name": "商家",
+                        "vanish_fields": []
+                    },
+                    "type": 0,
+                    "weight": {
+                        "basic": 20000,
+                        "maximum": 20000,
+                        "unit": 20000,
+                        "unit_fee": 20000
+                    }
+                },
+                "selectFoods": [
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 18,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 535792398,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "甄选埃塞俄比亚高海拔的耶加雪菲，带着特有的柠檬和花果香，来自苏门答腊黏土高原的曼特宁咖啡豆，醇厚奔放。辅以巴布亚新几内亚和哥伦比亚咖啡豆，自然回甘。",
+                        "image_path": "https://fuss10.elemecdn.com/4/25/5e0edb35371ec309d5cf1c8b2026fjpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "381983086729",
+                        "min_purchase": 1,
+                        "month_sales": 4,
+                        "name": "热美式热咖啡16oz",
+                        "photos": [
+                            "4255e0edb35371ec309d5cf1c8b2026fjpeg"
+                        ],
+                        "rating": 0,
+                        "rating_count": 0,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 0,
+                        "satisfy_rate": 0,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 820092329,
+                                "is_essential": false,
+                                "item_id": "381983086729",
+                                "name": "热美式热咖啡16oz",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029521791870,
+                                "pinyin_name": "remeishirekafei16oz",
+                                "price": 18,
+                                "promotion_stock": -1,
+                                "recent_popularity": 4,
+                                "recent_rating": 0,
+                                "restaurant_id": 1402592,
+                                "sku_id": "440134542473",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 10000,
+                                "virtual_food_id": 776567810,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "0评价 月售4份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 776567810,
+                        "count": 2
+                    }
+                ]
+            },
+            "totalPrice": 41.5,
+            "remarkInfo": {
+                "tableware": "1份餐具",
+                "remark": "不要洋葱,"
+            },
+            "date": "2022-01-05T09:02:00.006Z"
+        },
+        {
+            "_id": "61d55ebb9f4491001521dc6d",
+            "orderInfo": {
+                "shopInfo": {
+                    "act_tag": 0,
+                    "activities": [
+                        {
+                            "attribute": "{\"89\": {\"1\": 25.0, \"0\": 0}, \"69\": {\"1\": 10.0, \"0\": 0}}",
+                            "description": "满69减10，满89减25",
+                            "icon_color": "f07373",
+                            "icon_name": "满减",
+                            "id": 2062782186,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "汉堡王满减",
+                            "tips": "满69减10，满89减25",
+                            "type": 102
+                        },
+                        {
+                            "description": "折扣商品5折起",
+                            "icon_color": "f07373",
+                            "icon_name": "折扣",
+                            "id": 2062808259,
+                            "name": "单品折扣",
+                            "tips": "单品折扣"
+                        },
+                        {
+                            "attribute": "17.0",
+                            "description": "新用户下单立减17元(不与其它活动同享)",
+                            "icon_color": "70bc46",
+                            "icon_name": "首单",
+                            "id": 1987742851,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "新用户立减(不与其他活动共享)",
+                            "tips": "新用户下单立减17元(不与其它活动同享)",
+                            "type": 103
+                        },
+                        {
+                            "description": "特价商品9.9元起",
+                            "icon_color": "f1884f",
+                            "icon_name": "特价",
+                            "id": 1998061923,
+                            "name": "超值换购",
+                            "tips": "超值换购"
+                        }
+                    ],
+                    "address": "北京市昌平区回龙观镇北清路1号院6号楼一层6-3-101号",
+                    "albums": [
+                        {
+                            "count": 1,
+                            "cover_image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                            "name": "门面",
+                            "photos": [
+                                {
+                                    "id": 93739202,
+                                    "image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                                    "type": "FRONT"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 2,
+                            "cover_image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                            "name": "大堂",
+                            "photos": [
+                                {
+                                    "id": 93738690,
+                                    "image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                                    "type": "HALL"
+                                },
+                                {
+                                    "id": 93743122,
+                                    "image_hash": "784ab5540ae0b3c4f69a058be8e8949djpeg",
+                                    "type": "HALL"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 1,
+                            "cover_image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                            "name": "后厨",
+                            "photos": [
+                                {
+                                    "id": 93741042,
+                                    "image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                                    "type": "KITCHEN"
+                                }
+                            ]
+                        }
+                    ],
+                    "authentic_id": 2394435224294292,
+                    "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"69减10\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"89减25\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"8元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"9.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"首单减17\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}], \"ad_info\": null}",
+                    "delivery_fee_discount": 4,
+                    "delivery_mode": {
+                        "border": "",
+                        "color": "2395FF",
+                        "gradient": {
+                            "rgb_from": "00AAFF",
+                            "rgb_to": "0085FF"
+                        },
+                        "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                        "id": 1,
+                        "is_solid": true,
+                        "text": "蜂鸟专送",
+                        "text_color": "FFFFFF"
+                    },
+                    "description": "真正火烤，100%牛肉，很有料！",
+                    "distance": 1938,
+                    "favored": false,
+                    "flavors": [
+                        {
+                            "id": 212,
+                            "name": "汉堡"
+                        },
+                        {
+                            "id": 234,
+                            "name": "炸鸡炸串"
+                        }
+                    ],
+                    "float_delivery_fee": 5.5,
+                    "float_minimum_order_amount": 20,
+                    "has_story": true,
+                    "id": "E18031954713391430331",
+                    "image_path": "https://fuss10.elemecdn.com/b/a6/a17f3fea9990d8fbe07e39ad7a2e0png.png",
+                    "is_new": false,
+                    "is_premium": true,
+                    "is_star": true,
+                    "is_stock_empty": 0,
+                    "is_valid": 1,
+                    "latitude": 40.0964491166005,
+                    "longitude": 116.289089641137,
+                    "max_applied_quantity_per_order": 1,
+                    "name": "汉堡王（北京珠江摩尔国际店21157）",
+                    "next_business_time": "明天 08:00",
+                    "only_use_poi": false,
+                    "opening_hours": [
+                        "08:00/22:00"
+                    ],
+                    "order_lead_time": 41,
+                    "out_of_range": false,
+                    "phone": "4008988788",
+                    "piecewise_agent_fee": {
+                        "description": "配送费¥0.5",
+                        "extra_fee": -1.5,
+                        "is_extra": true,
+                        "no_subsidy_fee": "¥4.5",
+                        "rules": [
+                            {
+                                "fee": 0.5,
+                                "price": 20
+                            }
+                        ],
+                        "tips": "配送费¥0.5"
+                    },
+                    "platform": 0,
+                    "posters": [
+                        {
+                            "id": 10034259,
+                            "image_hash": "1cdfca8e6b0bc2ddfbe4c4c5f5b6680fpng",
+                            "name": "春节大套餐活动",
+                            "type": 3,
+                            "url": "eleme://restaurant_promotion?restaurant_id=E18031954713391430331&banner_id=10034259"
+                        }
+                    ],
+                    "promotion_info": "“整块牛排重磅来袭，新年尽情整才牛！”",
+                    "qualification": {
+                        "link": "https://h5.ele.me/shop/certification/#/?restaurant_id=E18031954713391430331"
+                    },
+                    "rating": 4.8,
+                    "rating_count": 543,
+                    "recent_order_num": 2220,
+                    "recommend": {
+                        "color": "#e8470b",
+                        "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+                        "is_ad": false,
+                        "reason": "口碑人气好店"
+                    },
+                    "recommend_reasons": [
+                        {
+                            "name": "味道超赞"
+                        },
+                        {
+                            "name": "回头客多"
+                        }
+                    ],
+                    "regular_customer_count": 0,
+                    "scheme": "https://fuss10.elemecdn.com/3/a2/cf556dccdeb82e83b1acac988c160png.png",
+                    "shop_sign": {
+                        "brand_story": "",
+                        "image_hash": "b9ac419871b7d6c99329878b9ea52fe3png"
+                    },
+                    "status": 1,
+                    "support_tags": [
+                        {
+                            "border": "dddddd",
+                            "color": "666666",
+                            "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                            "text": "汉堡",
+                            "type": 1
+                        }
+                    ],
+                    "supports": [
+                        {
+                            "border": "90dddddd",
+                            "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                            "icon_color": "999999",
+                            "icon_name": "票",
+                            "id": 4,
+                            "name": "开发票",
+                            "text_color": "666666",
+                            "two_characters_icon_name": "发票"
+                        }
+                    ],
+                    "target_tag_path": "d6a7283753e66cad4c4dc9a459d96a7fpng",
+                    "theme": {
+                        "default_color": "2395ff",
+                        "header_style": 3,
+                        "hongbao_style": 0,
+                        "price_color": "ff5339",
+                        "third_tab_name": "商家",
+                        "vanish_fields": []
+                    },
+                    "type": 0,
+                    "weight": {
+                        "basic": 20000,
+                        "maximum": 20000,
+                        "unit": 20000,
+                        "unit_fee": 20000
+                    }
+                },
+                "selectFoods": [
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的分数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "52元",
+                            "description": "跨年送福双人套餐",
+                            "discount": 1,
+                            "fixed_price": 52,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026730139,
+                            "image_text": "特",
+                            "image_text_color": "#FAA43C",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_super_vip": false,
+                            "name": "跨年送福双人套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": {
+                            "attrs2": [],
+                            "ingredient_info": null,
+                            "show_photo_type": 0,
+                            "specifications2": [],
+                            "sub_items": []
+                        },
+                        "category_id": 49811455113,
+                        "description": "限量30份，售完恢复为84元。霸辣鸡腿堡+香脆鳕鱼堡+王道嫩香鸡块+霸王鸡条（鲜辣）+可口可乐（中）+可口可乐（中）。主要原料：面包、鸡肉、鱼排、球生菜、车打芝士、马铃薯。",
+                        "image_path": "https://fuss10.elemecdn.com/b/13/6728a8aff65cfad8a6eb746f93937png.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "539486411913",
+                        "min_purchase": 1,
+                        "month_sales": 85,
+                        "name": "跨年送福双人套餐",
+                        "photos": [
+                            "b136728a8aff65cfad8a6eb746f93937png"
+                        ],
+                        "rating": 4.33,
+                        "rating_count": 9,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 9,
+                        "satisfy_rate": 100,
+                        "scheme": "eleme://catering?target_food_id=997407509&restaurant_id=E18031954713391430331&category_id=49811455113",
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "food_id": 997407509,
+                                "is_essential": false,
+                                "item_id": "539486411913",
+                                "name": "跨年送福双人套餐",
+                                "original_price": 84,
+                                "packing_fee": 0,
+                                "pinyin_name": "kuaniansongfushuangrentaocan",
+                                "price": 52,
+                                "promotion_stock": 30,
+                                "recent_popularity": 85,
+                                "recent_rating": 4.33,
+                                "restaurant_id": 1402592,
+                                "sku_id": "621714856073",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9997,
+                                "virtual_food_id": 930365475,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "9评价 月售85份",
+                        "type": 0,
+                        "virtual_food_id": 930365475,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 18,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 535792398,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "甄选埃塞俄比亚高海拔的耶加雪菲，带着特有的柠檬和花果香，来自苏门答腊黏土高原的曼特宁咖啡豆，醇厚奔放。辅以巴布亚新几内亚和哥伦比亚咖啡豆，自然回甘。",
+                        "image_path": "https://fuss10.elemecdn.com/4/25/5e0edb35371ec309d5cf1c8b2026fjpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "381983086729",
+                        "min_purchase": 1,
+                        "month_sales": 4,
+                        "name": "热美式热咖啡16oz",
+                        "photos": [
+                            "4255e0edb35371ec309d5cf1c8b2026fjpeg"
+                        ],
+                        "rating": 0,
+                        "rating_count": 0,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 0,
+                        "satisfy_rate": 0,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 820092329,
+                                "is_essential": false,
+                                "item_id": "381983086729",
+                                "name": "热美式热咖啡16oz",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029521791870,
+                                "pinyin_name": "remeishirekafei16oz",
+                                "price": 18,
+                                "promotion_stock": -1,
+                                "recent_popularity": 4,
+                                "recent_rating": 0,
+                                "restaurant_id": 1402592,
+                                "sku_id": "440134542473",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 10000,
+                                "virtual_food_id": 776567810,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "0评价 月售4份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 776567810,
+                        "count": 2
+                    }
+                ]
+            },
+            "totalPrice": 93.5,
+            "remarkInfo": {
+                "tableware": "1份餐具",
+                "remark": "不要洋葱,"
+            },
+            "date": "2022-01-05T09:02:51.640Z"
+        },
+        {
+            "_id": "61d55fd49f4491001521dc6e",
+            "orderInfo": {
+                "shopInfo": {
+                    "act_tag": 0,
+                    "activities": [
+                        {
+                            "attribute": "{\"89\": {\"1\": 25.0, \"0\": 0}, \"69\": {\"1\": 10.0, \"0\": 0}}",
+                            "description": "满69减10，满89减25",
+                            "icon_color": "f07373",
+                            "icon_name": "满减",
+                            "id": 2062782186,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "汉堡王满减",
+                            "tips": "满69减10，满89减25",
+                            "type": 102
+                        },
+                        {
+                            "description": "折扣商品5折起",
+                            "icon_color": "f07373",
+                            "icon_name": "折扣",
+                            "id": 2062808259,
+                            "name": "单品折扣",
+                            "tips": "单品折扣"
+                        },
+                        {
+                            "attribute": "17.0",
+                            "description": "新用户下单立减17元(不与其它活动同享)",
+                            "icon_color": "70bc46",
+                            "icon_name": "首单",
+                            "id": 1987742851,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "新用户立减(不与其他活动共享)",
+                            "tips": "新用户下单立减17元(不与其它活动同享)",
+                            "type": 103
+                        },
+                        {
+                            "description": "特价商品9.9元起",
+                            "icon_color": "f1884f",
+                            "icon_name": "特价",
+                            "id": 1998061923,
+                            "name": "超值换购",
+                            "tips": "超值换购"
+                        }
+                    ],
+                    "address": "北京市昌平区回龙观镇北清路1号院6号楼一层6-3-101号",
+                    "albums": [
+                        {
+                            "count": 1,
+                            "cover_image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                            "name": "门面",
+                            "photos": [
+                                {
+                                    "id": 93739202,
+                                    "image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                                    "type": "FRONT"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 2,
+                            "cover_image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                            "name": "大堂",
+                            "photos": [
+                                {
+                                    "id": 93738690,
+                                    "image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                                    "type": "HALL"
+                                },
+                                {
+                                    "id": 93743122,
+                                    "image_hash": "784ab5540ae0b3c4f69a058be8e8949djpeg",
+                                    "type": "HALL"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 1,
+                            "cover_image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                            "name": "后厨",
+                            "photos": [
+                                {
+                                    "id": 93741042,
+                                    "image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                                    "type": "KITCHEN"
+                                }
+                            ]
+                        }
+                    ],
+                    "authentic_id": 2394435224294292,
+                    "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"69减10\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"89减25\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"8元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"9.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"首单减17\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}], \"ad_info\": null}",
+                    "delivery_fee_discount": 4,
+                    "delivery_mode": {
+                        "border": "",
+                        "color": "2395FF",
+                        "gradient": {
+                            "rgb_from": "00AAFF",
+                            "rgb_to": "0085FF"
+                        },
+                        "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                        "id": 1,
+                        "is_solid": true,
+                        "text": "蜂鸟专送",
+                        "text_color": "FFFFFF"
+                    },
+                    "description": "真正火烤，100%牛肉，很有料！",
+                    "distance": 1938,
+                    "favored": false,
+                    "flavors": [
+                        {
+                            "id": 212,
+                            "name": "汉堡"
+                        },
+                        {
+                            "id": 234,
+                            "name": "炸鸡炸串"
+                        }
+                    ],
+                    "float_delivery_fee": 5.5,
+                    "float_minimum_order_amount": 20,
+                    "has_story": true,
+                    "id": "E18031954713391430331",
+                    "image_path": "https://fuss10.elemecdn.com/b/a6/a17f3fea9990d8fbe07e39ad7a2e0png.png",
+                    "is_new": false,
+                    "is_premium": true,
+                    "is_star": true,
+                    "is_stock_empty": 0,
+                    "is_valid": 1,
+                    "latitude": 40.0964491166005,
+                    "longitude": 116.289089641137,
+                    "max_applied_quantity_per_order": 1,
+                    "name": "汉堡王（北京珠江摩尔国际店21157）",
+                    "next_business_time": "明天 08:00",
+                    "only_use_poi": false,
+                    "opening_hours": [
+                        "08:00/22:00"
+                    ],
+                    "order_lead_time": 41,
+                    "out_of_range": false,
+                    "phone": "4008988788",
+                    "piecewise_agent_fee": {
+                        "description": "配送费¥0.5",
+                        "extra_fee": -1.5,
+                        "is_extra": true,
+                        "no_subsidy_fee": "¥4.5",
+                        "rules": [
+                            {
+                                "fee": 0.5,
+                                "price": 20
+                            }
+                        ],
+                        "tips": "配送费¥0.5"
+                    },
+                    "platform": 0,
+                    "posters": [
+                        {
+                            "id": 10034259,
+                            "image_hash": "1cdfca8e6b0bc2ddfbe4c4c5f5b6680fpng",
+                            "name": "春节大套餐活动",
+                            "type": 3,
+                            "url": "eleme://restaurant_promotion?restaurant_id=E18031954713391430331&banner_id=10034259"
+                        }
+                    ],
+                    "promotion_info": "“整块牛排重磅来袭，新年尽情整才牛！”",
+                    "qualification": {
+                        "link": "https://h5.ele.me/shop/certification/#/?restaurant_id=E18031954713391430331"
+                    },
+                    "rating": 4.8,
+                    "rating_count": 543,
+                    "recent_order_num": 2220,
+                    "recommend": {
+                        "color": "#e8470b",
+                        "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+                        "is_ad": false,
+                        "reason": "口碑人气好店"
+                    },
+                    "recommend_reasons": [
+                        {
+                            "name": "味道超赞"
+                        },
+                        {
+                            "name": "回头客多"
+                        }
+                    ],
+                    "regular_customer_count": 0,
+                    "scheme": "https://fuss10.elemecdn.com/3/a2/cf556dccdeb82e83b1acac988c160png.png",
+                    "shop_sign": {
+                        "brand_story": "",
+                        "image_hash": "b9ac419871b7d6c99329878b9ea52fe3png"
+                    },
+                    "status": 1,
+                    "support_tags": [
+                        {
+                            "border": "dddddd",
+                            "color": "666666",
+                            "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                            "text": "汉堡",
+                            "type": 1
+                        }
+                    ],
+                    "supports": [
+                        {
+                            "border": "90dddddd",
+                            "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                            "icon_color": "999999",
+                            "icon_name": "票",
+                            "id": 4,
+                            "name": "开发票",
+                            "text_color": "666666",
+                            "two_characters_icon_name": "发票"
+                        }
+                    ],
+                    "target_tag_path": "d6a7283753e66cad4c4dc9a459d96a7fpng",
+                    "theme": {
+                        "default_color": "2395ff",
+                        "header_style": 3,
+                        "hongbao_style": 0,
+                        "price_color": "ff5339",
+                        "third_tab_name": "商家",
+                        "vanish_fields": []
+                    },
+                    "type": 0,
+                    "weight": {
+                        "basic": 20000,
+                        "maximum": 20000,
+                        "unit": 20000,
+                        "unit_fee": 20000
+                    }
+                },
+                "selectFoods": [
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 10000,
+                            "applicable_quantity_detail_text": "每单限10000份优惠，超出的分数按原价计算",
+                            "applicable_quantity_text": "",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "88元",
+                            "description": "单品定价",
+                            "discount": 1,
+                            "fixed_price": 88,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2042207819,
+                            "image_text": "特",
+                            "image_text_color": "#FAA43C",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "max_quantity": 10000,
+                            "minimum_delivery_rule": 1,
+                            "must_super_vip": false,
+                            "name": "单品定价",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": {
+                            "attrs2": [],
+                            "ingredient_info": null,
+                            "show_photo_type": 0,
+                            "specifications2": [],
+                            "sub_items": []
+                        },
+                        "category_id": 49811455113,
+                        "description": "限量30份，售完恢复153元。狠霸王牛堡+果木香风味火烤鸡腿堡+狠霸王鸡堡+霸王鸡盒+薯霸王（大）+可乐（大）+可乐（大）+可乐（大）。主要原料：面包、牛肉饼、鸡肉、球生菜、酸黄瓜片、洋葱、车打芝士、马铃薯。",
+                        "image_path": "https://fuss10.elemecdn.com/e/9a/dffcc256685a065f9511215c6afedpng.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "100000025189838985",
+                        "min_purchase": 1,
+                        "month_sales": 157,
+                        "name": "金猪纳福多人分享套餐",
+                        "photos": [
+                            "e9adffcc256685a065f9511215c6afedpng"
+                        ],
+                        "rating": 4.27,
+                        "rating_count": 26,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 26,
+                        "satisfy_rate": 100,
+                        "scheme": "eleme://catering?target_food_id=1704471455&restaurant_id=E18031954713391430331&category_id=49811455113",
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "food_id": 1704471455,
+                                "is_essential": false,
+                                "item_id": "100000025189838985",
+                                "name": "金猪纳福多人分享套餐",
+                                "original_price": 153,
+                                "packing_fee": 0,
+                                "pinyin_name": "jinzhunafuduorenfenxiangtaocan",
+                                "price": 88,
+                                "promotion_stock": 29,
+                                "recent_popularity": 157,
+                                "recent_rating": 4.27,
+                                "restaurant_id": 1402592,
+                                "sku_id": "100000031936547977",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9989,
+                                "virtual_food_id": 1697823657,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "26评价 月售157份",
+                        "type": 0,
+                        "virtual_food_id": 1697823657,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 13,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 1229253502,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": " 不求刻意吮指，但求身心饱足。（主要原料：鸡腿）",
+                        "image_path": "https://fuss10.elemecdn.com/e/ed/cf60fce3bca1fb41227128a076a04png.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "524640410761",
+                        "min_purchase": 1,
+                        "month_sales": 258,
+                        "name": "王道椒香鸡腿",
+                        "photos": [
+                            "eedcf60fce3bca1fb41227128a076a04png"
+                        ],
+                        "rating": 4.16,
+                        "rating_count": 25,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 24,
+                        "satisfy_rate": 96,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 977022686,
+                                "is_essential": false,
+                                "item_id": "524640410761",
+                                "name": "王道椒香鸡腿",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029606784900,
+                                "pinyin_name": "wangdaojiaoxiangjitui",
+                                "price": 13,
+                                "promotion_stock": -1,
+                                "recent_popularity": 258,
+                                "recent_rating": 4.16,
+                                "restaurant_id": 1402592,
+                                "sku_id": "600812556425",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9981,
+                                "virtual_food_id": 915894511,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "25评价 月售258份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 915894511,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "description": "29.9鸡腿双堡套餐",
+                            "discount": 1,
+                            "fixed_price": 29.9,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 536271435,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "限量10份，售完恢复为54元。美式鸡排堡+霸辣鸡腿堡 +可口可乐（中）+可口可乐（中）。主要原料：面包、鸡肉、球生菜。",
+                        "image_path": "https://fuss10.elemecdn.com/b/66/be76d44a4bcc5d39a668f07d50f37png.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "532166488201",
+                        "min_purchase": 1,
+                        "month_sales": 209,
+                        "name": "29.9鸡腿双堡套餐",
+                        "photos": [
+                            "0202280edf2292a03046a0de01f465c6png"
+                        ],
+                        "rating": 4.45,
+                        "rating_count": 29,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 28,
+                        "satisfy_rate": 96,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 988298134,
+                                "is_essential": false,
+                                "item_id": "532166488201",
+                                "name": "29.9鸡腿双堡套餐",
+                                "original_price": 54,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029588213630,
+                                "pinyin_name": "29.9jituishuangbaotaocan",
+                                "price": 29.9,
+                                "promotion_stock": 10,
+                                "recent_popularity": 209,
+                                "recent_rating": 4.45,
+                                "restaurant_id": 1402592,
+                                "sku_id": "612381801609",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9984,
+                                "virtual_food_id": 923239613,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "29评价 月售209份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 923239613,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 85,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 542636727,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "每周一限量10份，售完恢复为85元。果木香风味火烤鸡腿堡+霸辣鸡腿堡+王道嫩香鸡块+薯霸王（大)+可口可乐（中）+可口可乐（中）。主要原料：面包、果木熏风味鸡腿排、鸡肉、球生菜。",
+                        "image_path": "https://fuss10.elemecdn.com/6/84/862ac3fe9d7b703e6402dcf40f022png.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "421440537737",
+                        "min_purchase": 1,
+                        "month_sales": 48,
+                        "name": " 周一半价双人餐",
+                        "photos": [
+                            "684862ac3fe9d7b703e6402dcf40f022png"
+                        ],
+                        "rating": 4,
+                        "rating_count": 6,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 6,
+                        "satisfy_rate": 100,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 862295903,
+                                "is_essential": false,
+                                "item_id": "421440537737",
+                                "name": " 周一半价双人餐",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029606762370,
+                                "pinyin_name": " zhouyibanjiashuangrencan",
+                                "price": 85,
+                                "promotion_stock": -1,
+                                "recent_popularity": 48,
+                                "recent_rating": 4,
+                                "restaurant_id": 1402592,
+                                "sku_id": "483351020681",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9990,
+                                "virtual_food_id": 815095471,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "6评价 月售48份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 815095471,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 56,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 1229239694,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "用创新的酥皮面包，奶香酥脆，搭配足量整块火烤牛排，加入香脆脆洋葱，再淋上充满牛肉香的芥末蘑菇酱，层层丰富的口感，让你随时来一场法餐般的味觉盛宴！主要原料：面包、牛肉、脆洋葱、球生菜、芥末蘑菇酱、马铃薯。 ",
+                        "image_path": "https://fuss10.elemecdn.com/d/87/d2875eb685fe58659ff5ec6ca5792png.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "100000024037133449",
+                        "min_purchase": 1,
+                        "month_sales": 47,
+                        "name": "“整”个牛排堡套餐",
+                        "photos": [
+                            "d87d2875eb685fe58659ff5ec6ca5792png"
+                        ],
+                        "rating": 4.5,
+                        "rating_count": 6,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 5,
+                        "satisfy_rate": 83,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 1703249826,
+                                "is_essential": false,
+                                "item_id": "100000024037133449",
+                                "name": "“整”个牛排堡套餐",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": null,
+                                "pinyin_name": "“zheng”geniupaibaotaocan",
+                                "price": 56,
+                                "promotion_stock": -1,
+                                "recent_popularity": 23,
+                                "recent_rating": 5,
+                                "restaurant_id": 1402592,
+                                "sku_id": "100000030752422025",
+                                "sold_out": false,
+                                "specs": [
+                                    {
+                                        "name": "规格",
+                                        "value": "中薯条+中可乐"
+                                    }
+                                ],
+                                "stock": 10000,
+                                "virtual_food_id": 1696772434,
+                                "weight": 0
+                            },
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 1703240358,
+                                "is_essential": false,
+                                "item_id": "100000024037133449",
+                                "name": "“整”个牛排堡套餐",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": null,
+                                "pinyin_name": "“zheng”geniupaibaotaocan",
+                                "price": 59,
+                                "promotion_stock": -1,
+                                "recent_popularity": 24,
+                                "recent_rating": 4,
+                                "restaurant_id": 1402592,
+                                "sku_id": "100000030688112777",
+                                "sold_out": false,
+                                "specs": [
+                                    {
+                                        "name": "规格",
+                                        "value": "大薯条+大可乐"
+                                    }
+                                ],
+                                "stock": 9999,
+                                "virtual_food_id": 1696772434,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [
+                            {
+                                "name": "规格",
+                                "values": [
+                                    "中薯条+中可乐",
+                                    "大薯条+大可乐"
+                                ]
+                            }
+                        ],
+                        "tips": "6评价 月售47份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 1696772434,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 48,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 1229244265,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "用创新的酥皮面包，奶香酥脆，搭配足量整块火烤牛排，加入香脆脆洋葱，再淋上充满牛肉香的芥末蘑菇酱，层层丰富的口感，让你随时来一场法餐般的味觉盛宴！（主要原料：面包、牛肉、脆洋葱、球生菜、芥末蘑菇酱。）",
+                        "image_path": "https://fuss10.elemecdn.com/6/dd/017ce10da2b98ffda550e0298a751png.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "100000023426015369",
+                        "min_purchase": 1,
+                        "month_sales": 42,
+                        "name": "“整”个牛排堡",
+                        "photos": [
+                            "6dd017ce10da2b98ffda550e0298a751png"
+                        ],
+                        "rating": 4.4,
+                        "rating_count": 5,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 5,
+                        "satisfy_rate": 100,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 1702466100,
+                                "is_essential": false,
+                                "item_id": "100000023426015369",
+                                "name": "“整”个牛排堡",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": null,
+                                "pinyin_name": "“zheng”geniupaibao",
+                                "price": 41,
+                                "promotion_stock": -1,
+                                "recent_popularity": 42,
+                                "recent_rating": 4.4,
+                                "restaurant_id": 1402592,
+                                "sku_id": "100000029885054089",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9996,
+                                "virtual_food_id": 1696057649,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "5评价 月售42份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 1696057649,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 19,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 1229253502,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "汉堡王全新推出的霸道牛魔王，精选100%澳洲进口安格斯牛肉，肉质细嫩多汁，肉香浓郁，口感卓越，赋予经典新加坡黑椒风味，每一口咀嚼都是享受。黑椒配牛肉，天生一对！牛气冲天！！主要原料：牛肉、淀粉。",
+                        "image_path": "https://fuss10.elemecdn.com/1/e1/1359c3af8c2b3ed9916d08feb460bpng.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "100000023121262729",
+                        "min_purchase": 1,
+                        "month_sales": 66,
+                        "name": "霸道牛魔王",
+                        "photos": [
+                            "1e11359c3af8c2b3ed9916d08feb460bpng"
+                        ],
+                        "rating": 4.25,
+                        "rating_count": 4,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 4,
+                        "satisfy_rate": 100,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 1702093144,
+                                "is_essential": false,
+                                "item_id": "100000023121262729",
+                                "name": "霸道牛魔王",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029588200320,
+                                "pinyin_name": "badaoniumowang",
+                                "price": 19,
+                                "promotion_stock": -1,
+                                "recent_popularity": 66,
+                                "recent_rating": 4.25,
+                                "restaurant_id": 1402592,
+                                "sku_id": "100000029577847945",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9993,
+                                "virtual_food_id": 1695832446,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "4评价 月售66份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 1695832446,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 18,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 535792398,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "甄选埃塞俄比亚高海拔的耶加雪菲，带着特有的柠檬和花果香，来自苏门答腊黏土高原的曼特宁咖啡豆，醇厚奔放。辅以巴布亚新几内亚和哥伦比亚咖啡豆，自然回甘。",
+                        "image_path": "https://fuss10.elemecdn.com/4/25/5e0edb35371ec309d5cf1c8b2026fjpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "381983086729",
+                        "min_purchase": 1,
+                        "month_sales": 4,
+                        "name": "热美式热咖啡16oz",
+                        "photos": [
+                            "4255e0edb35371ec309d5cf1c8b2026fjpeg"
+                        ],
+                        "rating": 0,
+                        "rating_count": 0,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 0,
+                        "satisfy_rate": 0,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 820092329,
+                                "is_essential": false,
+                                "item_id": "381983086729",
+                                "name": "热美式热咖啡16oz",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029521791870,
+                                "pinyin_name": "remeishirekafei16oz",
+                                "price": 18,
+                                "promotion_stock": -1,
+                                "recent_popularity": 4,
+                                "recent_rating": 0,
+                                "restaurant_id": 1402592,
+                                "sku_id": "440134542473",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 10000,
+                                "virtual_food_id": 776567810,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "0评价 月售4份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 776567810,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "description": "单品定价",
+                            "discount": 1,
+                            "fixed_price": 88,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2042207819,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 10000,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "单品定价",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 536271435,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "限量30份，售完恢复153元。狠霸王牛堡+果木香风味火烤鸡腿堡+狠霸王鸡堡+霸王鸡盒+薯霸王（大）+可乐（大）+可乐（大）+可乐（大）。主要原料：面包、牛肉饼、鸡肉、球生菜、酸黄瓜片、洋葱、车打芝士、马铃薯。",
+                        "image_path": "https://fuss10.elemecdn.com/e/9a/dffcc256685a065f9511215c6afedpng.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "100000025189838985",
+                        "min_purchase": 1,
+                        "month_sales": 157,
+                        "name": "金猪纳福多人分享套餐",
+                        "photos": [
+                            "e9adffcc256685a065f9511215c6afedpng"
+                        ],
+                        "rating": 4.27,
+                        "rating_count": 26,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 26,
+                        "satisfy_rate": 100,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 1704471455,
+                                "is_essential": false,
+                                "item_id": "100000025189838985",
+                                "name": "金猪纳福多人分享套餐",
+                                "original_price": 153,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": null,
+                                "pinyin_name": "jinzhunafuduorenfenxiangtaocan",
+                                "price": 88,
+                                "promotion_stock": 29,
+                                "recent_popularity": 157,
+                                "recent_rating": 4.27,
+                                "restaurant_id": 1402592,
+                                "sku_id": "100000031936547977",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9989,
+                                "virtual_food_id": 1697823657,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "26评价 月售157份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 1697823657,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 39,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 546263086,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "王道嫩香鸡块（四块）+王道椒香鸡腿（一个）+王道川蜀鸡翅（一对）+霸王鸡条鲜辣（四条）。主要原料：鸡肉",
+                        "image_path": "https://fuss10.elemecdn.com/a/70/eedc891900faf0c0f76899f09bd55jpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "532554510473",
+                        "min_purchase": 1,
+                        "month_sales": 25,
+                        "name": "会员霸王鸡盒A",
+                        "photos": [
+                            "a70eedc891900faf0c0f76899f09bd55jpeg"
+                        ],
+                        "rating": 4.57,
+                        "rating_count": 7,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 7,
+                        "satisfy_rate": 100,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 988694992,
+                                "is_essential": false,
+                                "item_id": "532554510473",
+                                "name": "会员霸王鸡盒A",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": null,
+                                "pinyin_name": "huiyuanbawangjiheA",
+                                "price": 39,
+                                "promotion_stock": -1,
+                                "recent_popularity": 25,
+                                "recent_rating": 4.57,
+                                "restaurant_id": 1402592,
+                                "sku_id": "612820652169",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9998,
+                                "virtual_food_id": 923618956,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "7评价 月售25份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 923618956,
+                        "count": 1
+                    }
+                ]
+            },
+            "totalPrice": 489.4,
+            "remarkInfo": {
+                "tableware": "1份餐具",
+                "remark": "多点辣,"
+            },
+            "date": "2022-01-05T09:07:32.783Z"
+        },
+        {
+            "_id": "61d55fed9f4491001521dc6f",
+            "orderInfo": {
+                "shopInfo": {
+                    "act_tag": 0,
+                    "activities": [
+                        {
+                            "attribute": "{\"89\": {\"1\": 25.0, \"0\": 0}, \"69\": {\"1\": 10.0, \"0\": 0}}",
+                            "description": "满69减10，满89减25",
+                            "icon_color": "f07373",
+                            "icon_name": "满减",
+                            "id": 2062782186,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "汉堡王满减",
+                            "tips": "满69减10，满89减25",
+                            "type": 102
+                        },
+                        {
+                            "description": "折扣商品5折起",
+                            "icon_color": "f07373",
+                            "icon_name": "折扣",
+                            "id": 2062808259,
+                            "name": "单品折扣",
+                            "tips": "单品折扣"
+                        },
+                        {
+                            "attribute": "17.0",
+                            "description": "新用户下单立减17元(不与其它活动同享)",
+                            "icon_color": "70bc46",
+                            "icon_name": "首单",
+                            "id": 1987742851,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "新用户立减(不与其他活动共享)",
+                            "tips": "新用户下单立减17元(不与其它活动同享)",
+                            "type": 103
+                        },
+                        {
+                            "description": "特价商品9.9元起",
+                            "icon_color": "f1884f",
+                            "icon_name": "特价",
+                            "id": 1998061923,
+                            "name": "超值换购",
+                            "tips": "超值换购"
+                        }
+                    ],
+                    "address": "北京市昌平区回龙观镇北清路1号院6号楼一层6-3-101号",
+                    "albums": [
+                        {
+                            "count": 1,
+                            "cover_image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                            "name": "门面",
+                            "photos": [
+                                {
+                                    "id": 93739202,
+                                    "image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                                    "type": "FRONT"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 2,
+                            "cover_image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                            "name": "大堂",
+                            "photos": [
+                                {
+                                    "id": 93738690,
+                                    "image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                                    "type": "HALL"
+                                },
+                                {
+                                    "id": 93743122,
+                                    "image_hash": "784ab5540ae0b3c4f69a058be8e8949djpeg",
+                                    "type": "HALL"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 1,
+                            "cover_image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                            "name": "后厨",
+                            "photos": [
+                                {
+                                    "id": 93741042,
+                                    "image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                                    "type": "KITCHEN"
+                                }
+                            ]
+                        }
+                    ],
+                    "authentic_id": 2394435224294292,
+                    "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"69减10\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"89减25\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"8元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"9.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"首单减17\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}], \"ad_info\": null}",
+                    "delivery_fee_discount": 4,
+                    "delivery_mode": {
+                        "border": "",
+                        "color": "2395FF",
+                        "gradient": {
+                            "rgb_from": "00AAFF",
+                            "rgb_to": "0085FF"
+                        },
+                        "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                        "id": 1,
+                        "is_solid": true,
+                        "text": "蜂鸟专送",
+                        "text_color": "FFFFFF"
+                    },
+                    "description": "真正火烤，100%牛肉，很有料！",
+                    "distance": 1938,
+                    "favored": false,
+                    "flavors": [
+                        {
+                            "id": 212,
+                            "name": "汉堡"
+                        },
+                        {
+                            "id": 234,
+                            "name": "炸鸡炸串"
+                        }
+                    ],
+                    "float_delivery_fee": 5.5,
+                    "float_minimum_order_amount": 20,
+                    "has_story": true,
+                    "id": "E18031954713391430331",
+                    "image_path": "https://fuss10.elemecdn.com/b/a6/a17f3fea9990d8fbe07e39ad7a2e0png.png",
+                    "is_new": false,
+                    "is_premium": true,
+                    "is_star": true,
+                    "is_stock_empty": 0,
+                    "is_valid": 1,
+                    "latitude": 40.0964491166005,
+                    "longitude": 116.289089641137,
+                    "max_applied_quantity_per_order": 1,
+                    "name": "汉堡王（北京珠江摩尔国际店21157）",
+                    "next_business_time": "明天 08:00",
+                    "only_use_poi": false,
+                    "opening_hours": [
+                        "08:00/22:00"
+                    ],
+                    "order_lead_time": 41,
+                    "out_of_range": false,
+                    "phone": "4008988788",
+                    "piecewise_agent_fee": {
+                        "description": "配送费¥0.5",
+                        "extra_fee": -1.5,
+                        "is_extra": true,
+                        "no_subsidy_fee": "¥4.5",
+                        "rules": [
+                            {
+                                "fee": 0.5,
+                                "price": 20
+                            }
+                        ],
+                        "tips": "配送费¥0.5"
+                    },
+                    "platform": 0,
+                    "posters": [
+                        {
+                            "id": 10034259,
+                            "image_hash": "1cdfca8e6b0bc2ddfbe4c4c5f5b6680fpng",
+                            "name": "春节大套餐活动",
+                            "type": 3,
+                            "url": "eleme://restaurant_promotion?restaurant_id=E18031954713391430331&banner_id=10034259"
+                        }
+                    ],
+                    "promotion_info": "“整块牛排重磅来袭，新年尽情整才牛！”",
+                    "qualification": {
+                        "link": "https://h5.ele.me/shop/certification/#/?restaurant_id=E18031954713391430331"
+                    },
+                    "rating": 4.8,
+                    "rating_count": 543,
+                    "recent_order_num": 2220,
+                    "recommend": {
+                        "color": "#e8470b",
+                        "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+                        "is_ad": false,
+                        "reason": "口碑人气好店"
+                    },
+                    "recommend_reasons": [
+                        {
+                            "name": "味道超赞"
+                        },
+                        {
+                            "name": "回头客多"
+                        }
+                    ],
+                    "regular_customer_count": 0,
+                    "scheme": "https://fuss10.elemecdn.com/3/a2/cf556dccdeb82e83b1acac988c160png.png",
+                    "shop_sign": {
+                        "brand_story": "",
+                        "image_hash": "b9ac419871b7d6c99329878b9ea52fe3png"
+                    },
+                    "status": 1,
+                    "support_tags": [
+                        {
+                            "border": "dddddd",
+                            "color": "666666",
+                            "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                            "text": "汉堡",
+                            "type": 1
+                        }
+                    ],
+                    "supports": [
+                        {
+                            "border": "90dddddd",
+                            "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                            "icon_color": "999999",
+                            "icon_name": "票",
+                            "id": 4,
+                            "name": "开发票",
+                            "text_color": "666666",
+                            "two_characters_icon_name": "发票"
+                        }
+                    ],
+                    "target_tag_path": "d6a7283753e66cad4c4dc9a459d96a7fpng",
+                    "theme": {
+                        "default_color": "2395ff",
+                        "header_style": 3,
+                        "hongbao_style": 0,
+                        "price_color": "ff5339",
+                        "third_tab_name": "商家",
+                        "vanish_fields": []
+                    },
+                    "type": 0,
+                    "weight": {
+                        "basic": 20000,
+                        "maximum": 20000,
+                        "unit": 20000,
+                        "unit_fee": 20000
+                    }
+                },
+                "selectFoods": [
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 18,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 535792398,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "甄选埃塞俄比亚高海拔的耶加雪菲，带着特有的柠檬和花果香，来自苏门答腊黏土高原的曼特宁咖啡豆，醇厚奔放。辅以巴布亚新几内亚和哥伦比亚咖啡豆，自然回甘。",
+                        "image_path": "https://fuss10.elemecdn.com/4/25/5e0edb35371ec309d5cf1c8b2026fjpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "381983086729",
+                        "min_purchase": 1,
+                        "month_sales": 4,
+                        "name": "热美式热咖啡16oz",
+                        "photos": [
+                            "4255e0edb35371ec309d5cf1c8b2026fjpeg"
+                        ],
+                        "rating": 0,
+                        "rating_count": 0,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 0,
+                        "satisfy_rate": 0,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 820092329,
+                                "is_essential": false,
+                                "item_id": "381983086729",
+                                "name": "热美式热咖啡16oz",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029521791870,
+                                "pinyin_name": "remeishirekafei16oz",
+                                "price": 18,
+                                "promotion_stock": -1,
+                                "recent_popularity": 4,
+                                "recent_rating": 0,
+                                "restaurant_id": 1402592,
+                                "sku_id": "440134542473",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 10000,
+                                "virtual_food_id": 776567810,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "0评价 月售4份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 776567810,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 10,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 546263086,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": " 精选进口优质薯条，挑战3/8英寸黄金切割法，根根粗壮色泽金黄，热度持久的明星产品。（主要原料：马铃薯） ",
+                        "image_path": "https://fuss10.elemecdn.com/0/21/57f9e87a40d2275627ee5e7a6f969jpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "532573852809",
+                        "min_purchase": 1,
+                        "month_sales": 23,
+                        "name": "会员薯霸王(小) ",
+                        "photos": [
+                            "02157f9e87a40d2275627ee5e7a6f969jpeg"
+                        ],
+                        "rating": 4.25,
+                        "rating_count": 4,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 4,
+                        "satisfy_rate": 100,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 988700675,
+                                "is_essential": false,
+                                "item_id": "532573852809",
+                                "name": "会员薯霸王(小) ",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": null,
+                                "pinyin_name": "huiyuanshubawang(xiao) ",
+                                "price": 10,
+                                "promotion_stock": -1,
+                                "recent_popularity": 23,
+                                "recent_rating": 4.25,
+                                "restaurant_id": 1402592,
+                                "sku_id": "612798854281",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9999,
+                                "virtual_food_id": 923597135,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "4评价 月售23份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 923597135,
+                        "count": 1
+                    }
+                ]
+            },
+            "totalPrice": 33.5,
+            "remarkInfo": {
+                "tableware": "1份餐具",
+                "remark": "多点辣,"
+            },
+            "date": "2022-01-05T09:07:57.054Z"
+        },
+        {
+            "_id": "61d5600d9f4491001521dc70",
+            "orderInfo": {
+                "shopInfo": {
+                    "act_tag": 0,
+                    "activities": [
+                        {
+                            "attribute": "{\"89\": {\"1\": 25.0, \"0\": 0}, \"69\": {\"1\": 10.0, \"0\": 0}}",
+                            "description": "满69减10，满89减25",
+                            "icon_color": "f07373",
+                            "icon_name": "满减",
+                            "id": 2062782186,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "汉堡王满减",
+                            "tips": "满69减10，满89减25",
+                            "type": 102
+                        },
+                        {
+                            "description": "折扣商品5折起",
+                            "icon_color": "f07373",
+                            "icon_name": "折扣",
+                            "id": 2062808259,
+                            "name": "单品折扣",
+                            "tips": "单品折扣"
+                        },
+                        {
+                            "attribute": "17.0",
+                            "description": "新用户下单立减17元(不与其它活动同享)",
+                            "icon_color": "70bc46",
+                            "icon_name": "首单",
+                            "id": 1987742851,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "新用户立减(不与其他活动共享)",
+                            "tips": "新用户下单立减17元(不与其它活动同享)",
+                            "type": 103
+                        },
+                        {
+                            "description": "特价商品9.9元起",
+                            "icon_color": "f1884f",
+                            "icon_name": "特价",
+                            "id": 1998061923,
+                            "name": "超值换购",
+                            "tips": "超值换购"
+                        }
+                    ],
+                    "address": "北京市昌平区回龙观镇北清路1号院6号楼一层6-3-101号",
+                    "albums": [
+                        {
+                            "count": 1,
+                            "cover_image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                            "name": "门面",
+                            "photos": [
+                                {
+                                    "id": 93739202,
+                                    "image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                                    "type": "FRONT"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 2,
+                            "cover_image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                            "name": "大堂",
+                            "photos": [
+                                {
+                                    "id": 93738690,
+                                    "image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                                    "type": "HALL"
+                                },
+                                {
+                                    "id": 93743122,
+                                    "image_hash": "784ab5540ae0b3c4f69a058be8e8949djpeg",
+                                    "type": "HALL"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 1,
+                            "cover_image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                            "name": "后厨",
+                            "photos": [
+                                {
+                                    "id": 93741042,
+                                    "image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                                    "type": "KITCHEN"
+                                }
+                            ]
+                        }
+                    ],
+                    "authentic_id": 2394435224294292,
+                    "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"69减10\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"89减25\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"8元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"9.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"首单减17\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}], \"ad_info\": null}",
+                    "delivery_fee_discount": 4,
+                    "delivery_mode": {
+                        "border": "",
+                        "color": "2395FF",
+                        "gradient": {
+                            "rgb_from": "00AAFF",
+                            "rgb_to": "0085FF"
+                        },
+                        "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                        "id": 1,
+                        "is_solid": true,
+                        "text": "蜂鸟专送",
+                        "text_color": "FFFFFF"
+                    },
+                    "description": "真正火烤，100%牛肉，很有料！",
+                    "distance": 1938,
+                    "favored": false,
+                    "flavors": [
+                        {
+                            "id": 212,
+                            "name": "汉堡"
+                        },
+                        {
+                            "id": 234,
+                            "name": "炸鸡炸串"
+                        }
+                    ],
+                    "float_delivery_fee": 5.5,
+                    "float_minimum_order_amount": 20,
+                    "has_story": true,
+                    "id": "E18031954713391430331",
+                    "image_path": "https://fuss10.elemecdn.com/b/a6/a17f3fea9990d8fbe07e39ad7a2e0png.png",
+                    "is_new": false,
+                    "is_premium": true,
+                    "is_star": true,
+                    "is_stock_empty": 0,
+                    "is_valid": 1,
+                    "latitude": 40.0964491166005,
+                    "longitude": 116.289089641137,
+                    "max_applied_quantity_per_order": 1,
+                    "name": "汉堡王（北京珠江摩尔国际店21157）",
+                    "next_business_time": "明天 08:00",
+                    "only_use_poi": false,
+                    "opening_hours": [
+                        "08:00/22:00"
+                    ],
+                    "order_lead_time": 41,
+                    "out_of_range": false,
+                    "phone": "4008988788",
+                    "piecewise_agent_fee": {
+                        "description": "配送费¥0.5",
+                        "extra_fee": -1.5,
+                        "is_extra": true,
+                        "no_subsidy_fee": "¥4.5",
+                        "rules": [
+                            {
+                                "fee": 0.5,
+                                "price": 20
+                            }
+                        ],
+                        "tips": "配送费¥0.5"
+                    },
+                    "platform": 0,
+                    "posters": [
+                        {
+                            "id": 10034259,
+                            "image_hash": "1cdfca8e6b0bc2ddfbe4c4c5f5b6680fpng",
+                            "name": "春节大套餐活动",
+                            "type": 3,
+                            "url": "eleme://restaurant_promotion?restaurant_id=E18031954713391430331&banner_id=10034259"
+                        }
+                    ],
+                    "promotion_info": "“整块牛排重磅来袭，新年尽情整才牛！”",
+                    "qualification": {
+                        "link": "https://h5.ele.me/shop/certification/#/?restaurant_id=E18031954713391430331"
+                    },
+                    "rating": 4.8,
+                    "rating_count": 543,
+                    "recent_order_num": 2220,
+                    "recommend": {
+                        "color": "#e8470b",
+                        "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+                        "is_ad": false,
+                        "reason": "口碑人气好店"
+                    },
+                    "recommend_reasons": [
+                        {
+                            "name": "味道超赞"
+                        },
+                        {
+                            "name": "回头客多"
+                        }
+                    ],
+                    "regular_customer_count": 0,
+                    "scheme": "https://fuss10.elemecdn.com/3/a2/cf556dccdeb82e83b1acac988c160png.png",
+                    "shop_sign": {
+                        "brand_story": "",
+                        "image_hash": "b9ac419871b7d6c99329878b9ea52fe3png"
+                    },
+                    "status": 1,
+                    "support_tags": [
+                        {
+                            "border": "dddddd",
+                            "color": "666666",
+                            "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                            "text": "汉堡",
+                            "type": 1
+                        }
+                    ],
+                    "supports": [
+                        {
+                            "border": "90dddddd",
+                            "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                            "icon_color": "999999",
+                            "icon_name": "票",
+                            "id": 4,
+                            "name": "开发票",
+                            "text_color": "666666",
+                            "two_characters_icon_name": "发票"
+                        }
+                    ],
+                    "target_tag_path": "d6a7283753e66cad4c4dc9a459d96a7fpng",
+                    "theme": {
+                        "default_color": "2395ff",
+                        "header_style": 3,
+                        "hongbao_style": 0,
+                        "price_color": "ff5339",
+                        "third_tab_name": "商家",
+                        "vanish_fields": []
+                    },
+                    "type": 0,
+                    "weight": {
+                        "basic": 20000,
+                        "maximum": 20000,
+                        "unit": 20000,
+                        "unit_fee": 20000
+                    }
+                },
+                "selectFoods": [
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的分数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "52元",
+                            "description": "跨年送福双人套餐",
+                            "discount": 1,
+                            "fixed_price": 52,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026730139,
+                            "image_text": "特",
+                            "image_text_color": "#FAA43C",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_super_vip": false,
+                            "name": "跨年送福双人套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": {
+                            "attrs2": [],
+                            "ingredient_info": null,
+                            "show_photo_type": 0,
+                            "specifications2": [],
+                            "sub_items": []
+                        },
+                        "category_id": 49811455113,
+                        "description": "限量30份，售完恢复为84元。霸辣鸡腿堡+香脆鳕鱼堡+王道嫩香鸡块+霸王鸡条（鲜辣）+可口可乐（中）+可口可乐（中）。主要原料：面包、鸡肉、鱼排、球生菜、车打芝士、马铃薯。",
+                        "image_path": "https://fuss10.elemecdn.com/b/13/6728a8aff65cfad8a6eb746f93937png.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "539486411913",
+                        "min_purchase": 1,
+                        "month_sales": 85,
+                        "name": "跨年送福双人套餐",
+                        "photos": [
+                            "b136728a8aff65cfad8a6eb746f93937png"
+                        ],
+                        "rating": 4.33,
+                        "rating_count": 9,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 9,
+                        "satisfy_rate": 100,
+                        "scheme": "eleme://catering?target_food_id=997407509&restaurant_id=E18031954713391430331&category_id=49811455113",
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "food_id": 997407509,
+                                "is_essential": false,
+                                "item_id": "539486411913",
+                                "name": "跨年送福双人套餐",
+                                "original_price": 84,
+                                "packing_fee": 0,
+                                "pinyin_name": "kuaniansongfushuangrentaocan",
+                                "price": 52,
+                                "promotion_stock": 30,
+                                "recent_popularity": 85,
+                                "recent_rating": 4.33,
+                                "restaurant_id": 1402592,
+                                "sku_id": "621714856073",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9997,
+                                "virtual_food_id": 930365475,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "9评价 月售85份",
+                        "type": 0,
+                        "virtual_food_id": 930365475,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 18,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 535792398,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "甄选埃塞俄比亚高海拔的耶加雪菲，带着特有的柠檬和花果香，来自苏门答腊黏土高原的曼特宁咖啡豆，醇厚奔放。辅以巴布亚新几内亚和哥伦比亚咖啡豆，自然回甘。",
+                        "image_path": "https://fuss10.elemecdn.com/4/25/5e0edb35371ec309d5cf1c8b2026fjpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "381983086729",
+                        "min_purchase": 1,
+                        "month_sales": 4,
+                        "name": "热美式热咖啡16oz",
+                        "photos": [
+                            "4255e0edb35371ec309d5cf1c8b2026fjpeg"
+                        ],
+                        "rating": 0,
+                        "rating_count": 0,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 0,
+                        "satisfy_rate": 0,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 820092329,
+                                "is_essential": false,
+                                "item_id": "381983086729",
+                                "name": "热美式热咖啡16oz",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029521791870,
+                                "pinyin_name": "remeishirekafei16oz",
+                                "price": 18,
+                                "promotion_stock": -1,
+                                "recent_popularity": 4,
+                                "recent_rating": 0,
+                                "restaurant_id": 1402592,
+                                "sku_id": "440134542473",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 10000,
+                                "virtual_food_id": 776567810,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "0评价 月售4份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 776567810,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 10,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 546263086,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": " 精选进口优质薯条，挑战3/8英寸黄金切割法，根根粗壮色泽金黄，热度持久的明星产品。（主要原料：马铃薯） ",
+                        "image_path": "https://fuss10.elemecdn.com/0/21/57f9e87a40d2275627ee5e7a6f969jpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "532573852809",
+                        "min_purchase": 1,
+                        "month_sales": 23,
+                        "name": "会员薯霸王(小) ",
+                        "photos": [
+                            "02157f9e87a40d2275627ee5e7a6f969jpeg"
+                        ],
+                        "rating": 4.25,
+                        "rating_count": 4,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 4,
+                        "satisfy_rate": 100,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 988700675,
+                                "is_essential": false,
+                                "item_id": "532573852809",
+                                "name": "会员薯霸王(小) ",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": null,
+                                "pinyin_name": "huiyuanshubawang(xiao) ",
+                                "price": 10,
+                                "promotion_stock": -1,
+                                "recent_popularity": 23,
+                                "recent_rating": 4.25,
+                                "restaurant_id": 1402592,
+                                "sku_id": "612798854281",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9999,
+                                "virtual_food_id": 923597135,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "4评价 月售23份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 923597135,
+                        "count": 1
+                    }
+                ]
+            },
+            "totalPrice": 85.5,
+            "remarkInfo": {
+                "tableware": "1份餐具",
+                "remark": "多点辣,"
+            },
+            "date": "2022-01-05T09:08:29.181Z"
+        },
+        {
+            "_id": "61d5602b9f4491001521dc71",
+            "orderInfo": {
+                "shopInfo": {
+                    "act_tag": 0,
+                    "activities": [
+                        {
+                            "attribute": "{\"89\": {\"1\": 25.0, \"0\": 0}, \"69\": {\"1\": 10.0, \"0\": 0}}",
+                            "description": "满69减10，满89减25",
+                            "icon_color": "f07373",
+                            "icon_name": "满减",
+                            "id": 2062782186,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "汉堡王满减",
+                            "tips": "满69减10，满89减25",
+                            "type": 102
+                        },
+                        {
+                            "description": "折扣商品5折起",
+                            "icon_color": "f07373",
+                            "icon_name": "折扣",
+                            "id": 2062808259,
+                            "name": "单品折扣",
+                            "tips": "单品折扣"
+                        },
+                        {
+                            "attribute": "17.0",
+                            "description": "新用户下单立减17元(不与其它活动同享)",
+                            "icon_color": "70bc46",
+                            "icon_name": "首单",
+                            "id": 1987742851,
+                            "is_exclusive_with_food_activity": true,
+                            "name": "新用户立减(不与其他活动共享)",
+                            "tips": "新用户下单立减17元(不与其它活动同享)",
+                            "type": 103
+                        },
+                        {
+                            "description": "特价商品9.9元起",
+                            "icon_color": "f1884f",
+                            "icon_name": "特价",
+                            "id": 1998061923,
+                            "name": "超值换购",
+                            "tips": "超值换购"
+                        }
+                    ],
+                    "address": "北京市昌平区回龙观镇北清路1号院6号楼一层6-3-101号",
+                    "albums": [
+                        {
+                            "count": 1,
+                            "cover_image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                            "name": "门面",
+                            "photos": [
+                                {
+                                    "id": 93739202,
+                                    "image_hash": "ea56fd0d5d9f75bc4c70d42fb60649e8jpeg",
+                                    "type": "FRONT"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 2,
+                            "cover_image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                            "name": "大堂",
+                            "photos": [
+                                {
+                                    "id": 93738690,
+                                    "image_hash": "7b7236526e6c76d02a498424380bbaf7jpeg",
+                                    "type": "HALL"
+                                },
+                                {
+                                    "id": 93743122,
+                                    "image_hash": "784ab5540ae0b3c4f69a058be8e8949djpeg",
+                                    "type": "HALL"
+                                }
+                            ]
+                        },
+                        {
+                            "count": 1,
+                            "cover_image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                            "name": "后厨",
+                            "photos": [
+                                {
+                                    "id": 93741042,
+                                    "image_hash": "0a36d275a55fcf66653f17f77cf5ca06jpeg",
+                                    "type": "KITCHEN"
+                                }
+                            ]
+                        }
+                    ],
+                    "authentic_id": 2394435224294292,
+                    "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"69减10\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"89减25\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"8元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"9.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"首单减17\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}], \"ad_info\": null}",
+                    "delivery_fee_discount": 4,
+                    "delivery_mode": {
+                        "border": "",
+                        "color": "2395FF",
+                        "gradient": {
+                            "rgb_from": "00AAFF",
+                            "rgb_to": "0085FF"
+                        },
+                        "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                        "id": 1,
+                        "is_solid": true,
+                        "text": "蜂鸟专送",
+                        "text_color": "FFFFFF"
+                    },
+                    "description": "真正火烤，100%牛肉，很有料！",
+                    "distance": 1938,
+                    "favored": false,
+                    "flavors": [
+                        {
+                            "id": 212,
+                            "name": "汉堡"
+                        },
+                        {
+                            "id": 234,
+                            "name": "炸鸡炸串"
+                        }
+                    ],
+                    "float_delivery_fee": 5.5,
+                    "float_minimum_order_amount": 20,
+                    "has_story": true,
+                    "id": "E18031954713391430331",
+                    "image_path": "https://fuss10.elemecdn.com/b/a6/a17f3fea9990d8fbe07e39ad7a2e0png.png",
+                    "is_new": false,
+                    "is_premium": true,
+                    "is_star": true,
+                    "is_stock_empty": 0,
+                    "is_valid": 1,
+                    "latitude": 40.0964491166005,
+                    "longitude": 116.289089641137,
+                    "max_applied_quantity_per_order": 1,
+                    "name": "汉堡王（北京珠江摩尔国际店21157）",
+                    "next_business_time": "明天 08:00",
+                    "only_use_poi": false,
+                    "opening_hours": [
+                        "08:00/22:00"
+                    ],
+                    "order_lead_time": 41,
+                    "out_of_range": false,
+                    "phone": "4008988788",
+                    "piecewise_agent_fee": {
+                        "description": "配送费¥0.5",
+                        "extra_fee": -1.5,
+                        "is_extra": true,
+                        "no_subsidy_fee": "¥4.5",
+                        "rules": [
+                            {
+                                "fee": 0.5,
+                                "price": 20
+                            }
+                        ],
+                        "tips": "配送费¥0.5"
+                    },
+                    "platform": 0,
+                    "posters": [
+                        {
+                            "id": 10034259,
+                            "image_hash": "1cdfca8e6b0bc2ddfbe4c4c5f5b6680fpng",
+                            "name": "春节大套餐活动",
+                            "type": 3,
+                            "url": "eleme://restaurant_promotion?restaurant_id=E18031954713391430331&banner_id=10034259"
+                        }
+                    ],
+                    "promotion_info": "“整块牛排重磅来袭，新年尽情整才牛！”",
+                    "qualification": {
+                        "link": "https://h5.ele.me/shop/certification/#/?restaurant_id=E18031954713391430331"
+                    },
+                    "rating": 4.8,
+                    "rating_count": 543,
+                    "recent_order_num": 2220,
+                    "recommend": {
+                        "color": "#e8470b",
+                        "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+                        "is_ad": false,
+                        "reason": "口碑人气好店"
+                    },
+                    "recommend_reasons": [
+                        {
+                            "name": "味道超赞"
+                        },
+                        {
+                            "name": "回头客多"
+                        }
+                    ],
+                    "regular_customer_count": 0,
+                    "scheme": "https://fuss10.elemecdn.com/3/a2/cf556dccdeb82e83b1acac988c160png.png",
+                    "shop_sign": {
+                        "brand_story": "",
+                        "image_hash": "b9ac419871b7d6c99329878b9ea52fe3png"
+                    },
+                    "status": 1,
+                    "support_tags": [
+                        {
+                            "border": "dddddd",
+                            "color": "666666",
+                            "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                            "text": "汉堡",
+                            "type": 1
+                        }
+                    ],
+                    "supports": [
+                        {
+                            "border": "90dddddd",
+                            "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                            "icon_color": "999999",
+                            "icon_name": "票",
+                            "id": 4,
+                            "name": "开发票",
+                            "text_color": "666666",
+                            "two_characters_icon_name": "发票"
+                        }
+                    ],
+                    "target_tag_path": "d6a7283753e66cad4c4dc9a459d96a7fpng",
+                    "theme": {
+                        "default_color": "2395ff",
+                        "header_style": 3,
+                        "hongbao_style": 0,
+                        "price_color": "ff5339",
+                        "third_tab_name": "商家",
+                        "vanish_fields": []
+                    },
+                    "type": 0,
+                    "weight": {
+                        "basic": 20000,
+                        "maximum": 20000,
+                        "unit": 20000,
+                        "unit_fee": 20000
+                    }
+                },
+                "selectFoods": [
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的分数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "52元",
+                            "description": "跨年送福双人套餐",
+                            "discount": 1,
+                            "fixed_price": 52,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026730139,
+                            "image_text": "特",
+                            "image_text_color": "#FAA43C",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_super_vip": false,
+                            "name": "跨年送福双人套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": {
+                            "attrs2": [],
+                            "ingredient_info": null,
+                            "show_photo_type": 0,
+                            "specifications2": [],
+                            "sub_items": []
+                        },
+                        "category_id": 49811455113,
+                        "description": "限量30份，售完恢复为84元。霸辣鸡腿堡+香脆鳕鱼堡+王道嫩香鸡块+霸王鸡条（鲜辣）+可口可乐（中）+可口可乐（中）。主要原料：面包、鸡肉、鱼排、球生菜、车打芝士、马铃薯。",
+                        "image_path": "https://fuss10.elemecdn.com/b/13/6728a8aff65cfad8a6eb746f93937png.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "539486411913",
+                        "min_purchase": 1,
+                        "month_sales": 85,
+                        "name": "跨年送福双人套餐",
+                        "photos": [
+                            "b136728a8aff65cfad8a6eb746f93937png"
+                        ],
+                        "rating": 4.33,
+                        "rating_count": 9,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 9,
+                        "satisfy_rate": 100,
+                        "scheme": "eleme://catering?target_food_id=997407509&restaurant_id=E18031954713391430331&category_id=49811455113",
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "food_id": 997407509,
+                                "is_essential": false,
+                                "item_id": "539486411913",
+                                "name": "跨年送福双人套餐",
+                                "original_price": 84,
+                                "packing_fee": 0,
+                                "pinyin_name": "kuaniansongfushuangrentaocan",
+                                "price": 52,
+                                "promotion_stock": 30,
+                                "recent_popularity": 85,
+                                "recent_rating": 4.33,
+                                "restaurant_id": 1402592,
+                                "sku_id": "621714856073",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9997,
+                                "virtual_food_id": 930365475,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "9评价 月售85份",
+                        "type": 0,
+                        "virtual_food_id": 930365475,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 18,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 535792398,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "甄选埃塞俄比亚高海拔的耶加雪菲，带着特有的柠檬和花果香，来自苏门答腊黏土高原的曼特宁咖啡豆，醇厚奔放。辅以巴布亚新几内亚和哥伦比亚咖啡豆，自然回甘。",
+                        "image_path": "https://fuss10.elemecdn.com/4/25/5e0edb35371ec309d5cf1c8b2026fjpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "381983086729",
+                        "min_purchase": 1,
+                        "month_sales": 4,
+                        "name": "热美式热咖啡16oz",
+                        "photos": [
+                            "4255e0edb35371ec309d5cf1c8b2026fjpeg"
+                        ],
+                        "rating": 0,
+                        "rating_count": 0,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 0,
+                        "satisfy_rate": 0,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 820092329,
+                                "is_essential": false,
+                                "item_id": "381983086729",
+                                "name": "热美式热咖啡16oz",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029521791870,
+                                "pinyin_name": "remeishirekafei16oz",
+                                "price": 18,
+                                "promotion_stock": -1,
+                                "recent_popularity": 4,
+                                "recent_rating": 0,
+                                "restaurant_id": 1402592,
+                                "sku_id": "440134542473",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 10000,
+                                "virtual_food_id": 776567810,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "0评价 月售4份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 776567810,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 38.5,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 543869880,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": "香脆鳕鱼堡+薯霸王（小）+可口可乐（小）+随机玩具1个。主要原料：面包、鱼排、车打芝士、马铃薯。",
+                        "image_path": "https://fuss10.elemecdn.com/c/9e/6cc6f205aa4f2c984b4f7203362bepng.png",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "531785494665",
+                        "min_purchase": 1,
+                        "month_sales": 7,
+                        "name": "小小国王鳕鱼堡餐",
+                        "photos": [
+                            "c9e6cc6f205aa4f2c984b4f7203362bepng"
+                        ],
+                        "rating": 4,
+                        "rating_count": 1,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 1,
+                        "satisfy_rate": 100,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 987825572,
+                                "is_essential": false,
+                                "item_id": "531785494665",
+                                "name": "小小国王鳕鱼堡餐",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": 100000029606803330,
+                                "pinyin_name": "xiaoxiaoguowangxueyubaocan",
+                                "price": 27,
+                                "promotion_stock": -1,
+                                "recent_popularity": 7,
+                                "recent_rating": 4,
+                                "restaurant_id": 1402592,
+                                "sku_id": "611906012297",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9999,
+                                "virtual_food_id": 922822147,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "1评价 月售7份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 922822147,
+                        "count": 1
+                    },
+                    {
+                        "activity": {
+                            "activity_type": "",
+                            "applicable_quantity": 1,
+                            "applicable_quantity_detail_text": "每单限1份优惠，超出的份数按原价计算",
+                            "applicable_quantity_text": "每单限1份优惠",
+                            "applicable_quantity_text_color": "eb6551",
+                            "benefit_text": "",
+                            "discount": 1,
+                            "fixed_price": 10,
+                            "icon_color": "eb6551",
+                            "icon_name": "特",
+                            "id": 2026758915,
+                            "image_text": "限1份",
+                            "image_text_color": "f1884f",
+                            "is_exclusive": 0,
+                            "is_price_changed": true,
+                            "is_promotion_toast_popup": true,
+                            "is_tied_selling": false,
+                            "max_quantity": 1,
+                            "minimum_delivery_rule": 1,
+                            "must_new_user": false,
+                            "must_super_vip": false,
+                            "name": "29.9鸡腿双堡套餐",
+                            "quantity_condition": 1,
+                            "quantity_text": "",
+                            "sum_condition": 0
+                        },
+                        "attributes": [],
+                        "attrs": [],
+                        "brand": null,
+                        "category_id": 546263086,
+                        "cold_box": null,
+                        "coupons": null,
+                        "description": " 精选进口优质薯条，挑战3/8英寸黄金切割法，根根粗壮色泽金黄，热度持久的明星产品。（主要原料：马铃薯） ",
+                        "image_path": "https://fuss10.elemecdn.com/0/21/57f9e87a40d2275627ee5e7a6f969jpeg.jpeg",
+                        "is_essential": false,
+                        "is_featured": 0,
+                        "item_id": "532573852809",
+                        "min_purchase": 1,
+                        "month_sales": 23,
+                        "name": "会员薯霸王(小) ",
+                        "photos": [
+                            "02157f9e87a40d2275627ee5e7a6f969jpeg"
+                        ],
+                        "rating": 4.25,
+                        "rating_count": 4,
+                        "restaurant_id": 1402592,
+                        "satisfy_count": 4,
+                        "satisfy_rate": 100,
+                        "scheme": null,
+                        "specfoods": [
+                            {
+                                "checkout_mode": 1,
+                                "coupon_id": -1,
+                                "food_id": 988700675,
+                                "is_essential": false,
+                                "item_id": "532573852809",
+                                "name": "会员薯霸王(小) ",
+                                "original_price": null,
+                                "packing_fee": 0,
+                                "partial_reduce_activity_id": null,
+                                "pid": null,
+                                "pinyin_name": "huiyuanshubawang(xiao) ",
+                                "price": 10,
+                                "promotion_stock": -1,
+                                "recent_popularity": 23,
+                                "recent_rating": 4.25,
+                                "restaurant_id": 1402592,
+                                "sku_id": "612798854281",
+                                "sold_out": false,
+                                "specs": [],
+                                "stock": 9999,
+                                "virtual_food_id": 923597135,
+                                "weight": 0
+                            }
+                        ],
+                        "specifications": [],
+                        "tips": "4评价 月售23份",
+                        "type": null,
+                        "video": null,
+                        "virtual_food_id": 923597135,
+                        "count": 1
+                    }
+                ]
+            },
+            "totalPrice": 124,
+            "remarkInfo": {
+                "tableware": "1份餐具",
+                "remark": "不要辣,不要香菜,不要洋葱,多点醋,多点葱,"
+            },
+            "date": "2022-01-05T09:08:59.575Z"
+        }
+    ],
+    "__v": 16
+}

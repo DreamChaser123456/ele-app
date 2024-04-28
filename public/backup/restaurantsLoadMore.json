@@ -1,0 +1,1077 @@
+[
+    {
+        "restaurant": {
+            "act_tag": 0,
+            "activities": [
+                {
+                    "attribute": "{\"80\": {\"1\": 20.0, \"0\": 0}, \"25\": {\"1\": 3.0, \"0\": 0}, \"50\": {\"1\": 15.0, \"0\": 0}, \"100\": {\"1\": 30.0, \"0\": 0}, \"30\": {\"1\": 8.0, \"0\": 0}}",
+                    "description": "满25减3，满30减8，满50减15，满80减20，满100减30",
+                    "icon_color": "f07373",
+                    "icon_name": "减",
+                    "id": 1976847626,
+                    "is_exclusive_with_food_activity": true,
+                    "name": "满减-天津北京广场店",
+                    "tips": "满25减3，满30减8，满50减15，满80减20，满100减30",
+                    "type": 102
+                },
+                {
+                    "description": "特价商品29.9元起",
+                    "icon_color": "f1884f",
+                    "icon_name": "秒",
+                    "id": 1946001619,
+                    "name": "限时秒杀-29.9午餐",
+                    "tips": "限时秒杀-29.9午餐"
+                },
+                {
+                    "description": "折扣商品5折起",
+                    "icon_color": "f07373",
+                    "icon_name": "折",
+                    "id": 1922264307,
+                    "name": "周四套餐日",
+                    "tips": "周四套餐日"
+                }
+            ],
+            "address": "北京市昌平区回龙观镇北清路1号院1号楼2层246",
+            "authentic_id": 6374269566672107,
+            "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"25减3\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"30减8\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"50减15\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"80减20\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"100减30\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"8元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"品质联盟\", \"border\": \"4ce23028\", \"background\": null, \"type\": 4, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"29.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}], \"ad_info\": null}",
+            "delivery_fee_discount": 3,
+            "delivery_mode": {
+                "border": "",
+                "color": "2395FF",
+                "gradient": {
+                    "rgb_from": "00AAFF",
+                    "rgb_to": "0085FF"
+                },
+                "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                "id": 1,
+                "is_solid": true,
+                "text": "蜂鸟专送",
+                "text_color": "FFFFFF"
+            },
+            "description": "新店开张",
+            "distance": 1839,
+            "favored": false,
+            "flavors": [
+                {
+                    "id": 215,
+                    "name": "包子粥店"
+                },
+                {
+                    "id": 265,
+                    "name": "简餐"
+                }
+            ],
+            "float_delivery_fee": 3.5,
+            "float_minimum_order_amount": 20,
+            "has_story": false,
+            "id": "E13787979290059586463",
+            "image_path": "https://fuss10.elemecdn.com/3/71/31581dc1d0ed17c0e546c9af40dc9png.png",
+            "is_new": false,
+            "is_premium": true,
+            "is_star": false,
+            "is_stock_empty": 0,
+            "is_valid": 1,
+            "latitude": 40.095997,
+            "longitude": 116.290012,
+            "max_applied_quantity_per_order": -1,
+            "name": "亚惠小吃街(昌平永旺店)",
+            "next_business_time": "明天 10:30",
+            "only_use_poi": false,
+            "opening_hours": [
+                "10:30/20:00"
+            ],
+            "order_lead_time": 45,
+            "out_of_range": false,
+            "phone": "18612788856",
+            "piecewise_agent_fee": {
+                "description": "配送费¥3.5",
+                "extra_fee": -1.5,
+                "is_extra": true,
+                "no_subsidy_fee": "¥6.5",
+                "rules": [
+                    {
+                        "fee": 3.5,
+                        "price": 20
+                    }
+                ],
+                "tips": "配送费¥3.5"
+            },
+            "platform": 0,
+            "posters": [],
+            "promotion_info": "顾客您好：定多份餐，订餐特殊需求，请tel:13269960569\n食品安全温馨提示：请您在接餐后30分钟内用餐完毕！",
+            "rating": 4.7,
+            "rating_count": 2093,
+            "recent_order_num": 3632,
+            "recommend": {
+                "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                "is_ad": false,
+                "track": "{\"rankType\":\"3\"}"
+            },
+            "recommend_reasons": [
+                {
+                    "name": "味道超赞"
+                },
+                {
+                    "name": "回头客多"
+                }
+            ],
+            "regular_customer_count": 0,
+            "scheme": "https://h5.ele.me/shop/#id=E13787979290059586463",
+            "status": 1,
+            "support_tags": [
+                {
+                    "border": "dddddd",
+                    "color": "666666",
+                    "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                    "text": "包子粥店",
+                    "type": 1
+                },
+                {
+                    "border": "dddddd",
+                    "color": "333333",
+                    "text": "品质联盟"
+                }
+            ],
+            "supports": [
+                {
+                    "border": "90dddddd",
+                    "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                    "icon_color": "999999",
+                    "icon_name": "票",
+                    "id": 4,
+                    "name": "开发票",
+                    "text_color": "666666",
+                    "two_characters_icon_name": "发票"
+                }
+            ],
+            "tags": [],
+            "target_tag_path": "d53fc0cb4dc67973038cbc591938a1b6png",
+            "theme": {
+                "default_color": "2395ff",
+                "header_style": 0,
+                "hongbao_style": 0,
+                "price_color": "ff5339",
+                "third_tab_name": "商家",
+                "vanish_fields": []
+            },
+            "type": 0
+        }
+    },
+    {
+        "restaurant": {
+            "act_tag": 0,
+            "activities": [
+                {
+                    "attribute": "17.0",
+                    "description": "新用户下单立减17元",
+                    "icon_color": "70bc46",
+                    "icon_name": "首",
+                    "id": 1938000563,
+                    "is_exclusive_with_food_activity": true,
+                    "name": "新客立减",
+                    "tips": "新用户下单立减17元",
+                    "type": 103
+                },
+                {
+                    "description": "特价商品9.9元起",
+                    "icon_color": "f1884f",
+                    "icon_name": "换",
+                    "id": 1613463611,
+                    "name": "超值换购",
+                    "tips": "超值换购"
+                },
+                {
+                    "description": "折扣商品5折起",
+                    "icon_color": "f07373",
+                    "icon_name": "折",
+                    "id": 1233283969,
+                    "name": "5折鸡肉卷九珍",
+                    "tips": "5折鸡肉卷九珍"
+                }
+            ],
+            "address": "北京市昌平区北清路1号永旺国际商城购物中心一层146号商铺",
+            "authentic_id": 1394279568038033,
+            "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"首单减17\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"9.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}], \"ad_info\": null}",
+            "delivery_fee_discount": 0,
+            "description": "KFC",
+            "distance": 1851,
+            "favored": false,
+            "flavors": [
+                {
+                    "id": 234,
+                    "name": "炸鸡炸串"
+                },
+                {
+                    "id": 212,
+                    "name": "汉堡"
+                }
+            ],
+            "float_delivery_fee": 9,
+            "float_minimum_order_amount": 0,
+            "has_story": false,
+            "id": "E5767702655842920966",
+            "image_path": "https://fuss10.elemecdn.com/7/d3/48a777a6b444dc317cc24d101220cjpeg.jpeg",
+            "is_new": false,
+            "is_premium": true,
+            "is_star": true,
+            "is_stock_empty": 0,
+            "is_valid": 1,
+            "latitude": 40.09597371,
+            "longitude": 116.28991389,
+            "max_applied_quantity_per_order": -1,
+            "name": "肯德基宅急送（北清路店）",
+            "next_business_time": "明天 08:00",
+            "only_use_poi": false,
+            "opening_hours": [
+                "08:00/22:55"
+            ],
+            "order_lead_time": 30,
+            "out_of_range": false,
+            "phone": "4009208801",
+            "piecewise_agent_fee": {
+                "description": "配送费¥9",
+                "extra_fee": 0,
+                "is_extra": false,
+                "no_subsidy_fee": "",
+                "rules": [
+                    {
+                        "fee": 9,
+                        "price": 0
+                    }
+                ],
+                "tips": "配送费¥9"
+            },
+            "platform": 0,
+            "posters": [],
+            "promotion_info": "本餐厅不使用饿了么配送，由肯德基宅急送官方品牌配送，会员用户无法享受免配送费服务",
+            "rating": 4.7,
+            "rating_count": 575,
+            "recent_order_num": 1883,
+            "recommend": {
+                "is_ad": false,
+                "reason": ""
+            },
+            "recommend_reasons": [
+                {
+                    "name": "回头客多"
+                },
+                {
+                    "name": "配送飞快"
+                }
+            ],
+            "regular_customer_count": 0,
+            "scheme": "https://h5.ele.me/shop/#id=E5767702655842920966",
+            "status": 1,
+            "support_tags": [
+                {
+                    "border": "dddddd",
+                    "color": "666666",
+                    "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                    "text": "炸鸡炸串",
+                    "type": 1
+                }
+            ],
+            "supports": [
+                {
+                    "border": "90dddddd",
+                    "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                    "icon_color": "999999",
+                    "icon_name": "票",
+                    "id": 4,
+                    "name": "开发票",
+                    "text_color": "666666",
+                    "two_characters_icon_name": "发票"
+                }
+            ],
+            "tags": [],
+            "target_tag_path": "d6a7283753e66cad4c4dc9a459d96a7fpng",
+            "theme": {
+                "default_color": "2395ff",
+                "header_style": 0,
+                "hongbao_style": 0,
+                "price_color": "ff5339",
+                "third_tab_name": "商家",
+                "vanish_fields": []
+            },
+            "type": 0
+        }
+    },
+    {
+        "restaurant": {
+            "act_tag": 0,
+            "activities": [
+                {
+                    "attribute": "{\"60\": {\"1\": 30.0, \"0\": 0}, \"30\": {\"1\": 15.0, \"0\": 0}}",
+                    "description": "满30减15，满60减30",
+                    "icon_color": "f07373",
+                    "icon_name": "减",
+                    "id": 1957110090,
+                    "is_exclusive_with_food_activity": true,
+                    "name": "呷哺活动满减",
+                    "tips": "满30减15，满60减30",
+                    "type": 102
+                },
+                {
+                    "description": "折扣商品5折起",
+                    "icon_color": "f07373",
+                    "icon_name": "折",
+                    "id": 1953795595,
+                    "name": "单品折扣",
+                    "tips": "单品折扣"
+                },
+                {
+                    "description": "特价商品1元起",
+                    "icon_color": "f1884f",
+                    "icon_name": "特",
+                    "id": 1886312467,
+                    "name": "单品定价",
+                    "tips": "单品定价"
+                }
+            ],
+            "address": "北京市昌平区北清路1号院1号楼1层101内151A",
+            "authentic_id": 5314269610851033,
+            "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"30减15\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"60减30\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"8元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"1元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}], \"ad_info\": null}",
+            "delivery_fee_discount": 0,
+            "description": "亲爱的顾客您好！ 呷煮呷烫全新上线，甄选食材、匠心制作、源自呷哺呷哺！",
+            "distance": 1861,
+            "favored": false,
+            "flavors": [
+                {
+                    "id": 214,
+                    "name": "麻辣烫"
+                },
+                {
+                    "id": 231,
+                    "name": "火锅烤鱼"
+                }
+            ],
+            "float_delivery_fee": 6,
+            "float_minimum_order_amount": 20,
+            "has_story": false,
+            "id": "E13850478354455274359",
+            "image_path": "https://fuss10.elemecdn.com/b/f8/19c6fd22af7793a335bb400d61bc2jpeg.jpeg",
+            "is_new": false,
+            "is_premium": true,
+            "is_star": true,
+            "is_stock_empty": 0,
+            "is_valid": 1,
+            "latitude": 40.09642,
+            "longitude": 116.28975,
+            "max_applied_quantity_per_order": -1,
+            "name": "呷哺呷煮呷烫(昌平永旺店)",
+            "next_business_time": "明天 10:00",
+            "only_use_poi": false,
+            "opening_hours": [
+                "10:00/22:00"
+            ],
+            "order_lead_time": 34,
+            "out_of_range": false,
+            "phone": "4008177676 010-80700827 021-60349455",
+            "piecewise_agent_fee": {
+                "description": "配送费¥6",
+                "extra_fee": 0,
+                "is_extra": false,
+                "no_subsidy_fee": "",
+                "rules": [
+                    {
+                        "fee": 6,
+                        "price": 20
+                    }
+                ],
+                "tips": "配送费¥6"
+            },
+            "platform": 0,
+            "posters": [],
+            "promotion_info": "亲，订单一定要包含呷煮呷烫餐和套餐系列菜品！ 随心配菜品、呷哺调料，单独点选无法配送！ 呷哺调料每单限购15份，单独购买无法配送！ 点选煮烫系列菜品时收取餐盒费3元-6元哟！",
+            "rating": 4.7,
+            "rating_count": 458,
+            "recent_order_num": 1271,
+            "recommend": {
+                "color": "#e8470b",
+                "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+                "is_ad": false,
+                "reason": "口碑人气好店"
+            },
+            "recommend_reasons": [
+                {
+                    "name": "回头客多"
+                }
+            ],
+            "regular_customer_count": 0,
+            "scheme": "https://h5.ele.me/shop/#id=E13850478354455274359",
+            "status": 1,
+            "support_tags": [
+                {
+                    "border": "dddddd",
+                    "color": "666666",
+                    "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                    "text": "麻辣烫",
+                    "type": 1
+                }
+            ],
+            "supports": [
+                {
+                    "border": "90dddddd",
+                    "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                    "icon_color": "999999",
+                    "icon_name": "票",
+                    "id": 4,
+                    "name": "开发票",
+                    "text_color": "666666",
+                    "two_characters_icon_name": "发票"
+                }
+            ],
+            "tags": [],
+            "target_tag_path": "d6a7283753e66cad4c4dc9a459d96a7fpng",
+            "theme": {
+                "default_color": "2395ff",
+                "header_style": 0,
+                "hongbao_style": 0,
+                "price_color": "ff5339",
+                "third_tab_name": "商家",
+                "vanish_fields": []
+            },
+            "type": 0
+        }
+    },
+    {
+        "restaurant": {
+            "act_tag": 0,
+            "activities": [
+                {
+                    "attribute": "{\"69\": {\"1\": 20.0, \"0\": 0}, \"85\": {\"1\": 25.0, \"0\": 0}}",
+                    "description": "满69减20，满85减25",
+                    "icon_color": "f07373",
+                    "icon_name": "减",
+                    "id": 1969936826,
+                    "is_exclusive_with_food_activity": true,
+                    "name": "北上南-3城满减",
+                    "tips": "满69减20，满85减25",
+                    "type": 102
+                },
+                {
+                    "description": "特价商品9.9元起",
+                    "icon_color": "f1884f",
+                    "icon_name": "换",
+                    "id": 1956190539,
+                    "name": "超值换购",
+                    "tips": "超值换购"
+                },
+                {
+                    "description": "折扣商品5折起",
+                    "icon_color": "f07373",
+                    "icon_name": "折",
+                    "id": 1954063235,
+                    "name": "周二",
+                    "tips": "周二"
+                }
+            ],
+            "address": "北京市昌平区回龙观镇北清路1号院6号楼一层6-3-101号",
+            "authentic_id": 5334269559460992,
+            "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"69减20\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"85减25\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"8元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"9.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}], \"ad_info\": null}",
+            "delivery_fee_discount": 0,
+            "delivery_mode": {
+                "border": "",
+                "color": "2395FF",
+                "gradient": {
+                    "rgb_from": "00AAFF",
+                    "rgb_to": "0085FF"
+                },
+                "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+                "id": 1,
+                "is_solid": true,
+                "text": "蜂鸟专送",
+                "text_color": "FFFFFF"
+            },
+            "description": "猪肘堡，重磅回归！",
+            "distance": 1938,
+            "favored": false,
+            "flavors": [
+                {
+                    "id": 212,
+                    "name": "汉堡"
+                },
+                {
+                    "id": 234,
+                    "name": "炸鸡炸串"
+                }
+            ],
+            "float_delivery_fee": 5.5,
+            "float_minimum_order_amount": 20,
+            "has_story": false,
+            "id": "E13877065492319327992",
+            "image_path": "https://fuss10.elemecdn.com/b/a6/a17f3fea9990d8fbe07e39ad7a2e0png.png",
+            "is_new": false,
+            "is_premium": true,
+            "is_star": true,
+            "is_stock_empty": 0,
+            "is_valid": 1,
+            "latitude": 40.0964491166005,
+            "longitude": 116.289089641137,
+            "max_applied_quantity_per_order": -1,
+            "name": "汉堡王（北京珠江摩尔国际店21157）",
+            "next_business_time": "明天 07:00",
+            "only_use_poi": false,
+            "opening_hours": [
+                "07:00/22:00"
+            ],
+            "order_lead_time": 52,
+            "out_of_range": false,
+            "phone": "4008988788",
+            "piecewise_agent_fee": {
+                "description": "配送费¥5.5",
+                "extra_fee": 1.5,
+                "is_extra": true,
+                "no_subsidy_fee": "",
+                "rules": [
+                    {
+                        "fee": 5.5,
+                        "price": 20
+                    }
+                ],
+                "tips": "配送费¥5.5"
+            },
+            "platform": 0,
+            "posters": [],
+            "promotion_info": "“整块牛排重磅来袭，新年尽情整才牛！”",
+            "rating": 4.8,
+            "rating_count": 1085,
+            "recent_order_num": 3322,
+            "recommend": {
+                "color": "#e8470b",
+                "image_hash": "",
+                "is_ad": false,
+                "reason": "",
+                "track": "{\"rankType\":\"3\"}"
+            },
+            "recommend_reasons": [
+                {
+                    "name": "味道超赞"
+                },
+                {
+                    "name": "回头客多"
+                }
+            ],
+            "regular_customer_count": 0,
+            "scheme": "https://h5.ele.me/shop/#id=E13877065492319327992",
+            "status": 1,
+            "support_tags": [
+                {
+                    "border": "dddddd",
+                    "color": "666666",
+                    "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                    "text": "汉堡",
+                    "type": 1
+                },
+                {
+                    "border": "dddddd",
+                    "color": "666666",
+                    "text": "口碑人气好店"
+                }
+            ],
+            "supports": [
+                {
+                    "border": "90dddddd",
+                    "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                    "icon_color": "999999",
+                    "icon_name": "票",
+                    "id": 4,
+                    "name": "开发票",
+                    "text_color": "666666",
+                    "two_characters_icon_name": "发票"
+                }
+            ],
+            "tags": [],
+            "target_tag_path": "d6a7283753e66cad4c4dc9a459d96a7fpng",
+            "theme": {
+                "default_color": "2395ff",
+                "header_style": 0,
+                "hongbao_style": 0,
+                "price_color": "ff5339",
+                "third_tab_name": "商家",
+                "vanish_fields": []
+            },
+            "type": 0
+        }
+    },
+    {
+        "restaurant": {
+            "act_tag": 0,
+            "activities": [
+                {
+                    "attribute": "15.0",
+                    "description": "新用户下单立减15元",
+                    "icon_color": "70bc46",
+                    "icon_name": "首",
+                    "id": 1980399315,
+                    "is_exclusive_with_food_activity": true,
+                    "name": "新用户立减(不与其他活动共享)",
+                    "tips": "新用户下单立减15元",
+                    "type": 103
+                }
+            ],
+            "address": "北京市昌平区回龙观镇北清路1号院1号楼一层101内T-127",
+            "authentic_id": 6324299618401056,
+            "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"首单减15\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}], \"ad_info\": null}",
+            "delivery_fee_discount": 0,
+            "description": "本店推荐您在饿了么网上订餐:1>饭点较忙，电话常占线，本店优先配送网络订单 2>请确保您的电话开机及铃声状态以便送餐员能联系上您 3>本店餐品统一冷链供应，质量保证，鲜香麻辣口感佳，外卖制作+配送都需要时间，希望大家提前进行预订外卖，避开高峰拥堵提前，有加辣等要求请备注哦~",
+            "distance": 1996,
+            "favored": false,
+            "flavors": [
+                {
+                    "id": 346,
+                    "name": "卤味鸭脖"
+                }
+            ],
+            "float_delivery_fee": 5,
+            "float_minimum_order_amount": 20,
+            "has_story": false,
+            "id": "E14996397704509639241",
+            "image_path": "https://fuss10.elemecdn.com/0/c5/4482d17089f54ba4e390bd4066551jpeg.jpeg",
+            "is_new": false,
+            "is_premium": true,
+            "is_star": false,
+            "is_stock_empty": 0,
+            "is_valid": 1,
+            "latitude": 40.096761,
+            "longitude": 116.28856,
+            "max_applied_quantity_per_order": -1,
+            "name": "绝味鸭脖(昌平永旺店)",
+            "next_business_time": "明天 09:00",
+            "only_use_poi": false,
+            "opening_hours": [
+                "09:00/21:50"
+            ],
+            "order_lead_time": 36,
+            "out_of_range": false,
+            "phone": "18292038166 13651351380",
+            "piecewise_agent_fee": {
+                "description": "配送费¥5",
+                "extra_fee": 0,
+                "is_extra": false,
+                "no_subsidy_fee": "",
+                "rules": [
+                    {
+                        "fee": 5,
+                        "price": 20
+                    }
+                ],
+                "tips": "配送费¥5"
+            },
+            "platform": 0,
+            "posters": [],
+            "promotion_info": "没有什么是一根绝味鸭脖解决不的，一根不行就两根，爽的你直喊还想要，闪电客服：400-999-5917，小鸭鸭竭诚为您服务！！",
+            "rating": 4.7,
+            "rating_count": 186,
+            "recent_order_num": 575,
+            "recommend": {
+                "color": "#e8470b",
+                "image_hash": "",
+                "is_ad": false,
+                "reason": "",
+                "track": "{\"rankType\":\"29\"}"
+            },
+            "recommend_reasons": [
+                {
+                    "name": "回头客多"
+                }
+            ],
+            "regular_customer_count": 0,
+            "scheme": "https://h5.ele.me/shop/#id=E14996397704509639241",
+            "status": 1,
+            "support_tags": [
+                {
+                    "border": "dddddd",
+                    "color": "666666",
+                    "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                    "text": "卤味鸭脖",
+                    "type": 1
+                },
+                {
+                    "border": "dddddd",
+                    "color": "666666",
+                    "text": "口碑人气好店"
+                }
+            ],
+            "supports": [
+                {
+                    "border": "90dddddd",
+                    "description": "商家原因导致订单取消，赔付代金券",
+                    "icon_color": "999999",
+                    "icon_name": "赔",
+                    "id": 10,
+                    "name": "拒单赔",
+                    "text_color": "666666",
+                    "two_characters_icon_name": ""
+                }
+            ],
+            "target_tag_path": "d53fc0cb4dc67973038cbc591938a1b6png",
+            "theme": {
+                "default_color": "2395ff",
+                "header_style": 0,
+                "hongbao_style": 0,
+                "price_color": "ff5339",
+                "third_tab_name": "商家",
+                "vanish_fields": []
+            },
+            "type": 1
+        }
+    },
+    {
+        "restaurant": {
+            "act_tag": 0,
+            "activities": [
+                {
+                    "attribute": "{\"45\": {\"1\": 17.0, \"0\": 0}, \"30\": {\"1\": 10.0, \"0\": 0}}",
+                    "description": "满30减10，满45减17",
+                    "icon_color": "f07373",
+                    "icon_name": "减",
+                    "id": 1951291714,
+                    "is_exclusive_with_food_activity": true,
+                    "name": "田老师北京满减",
+                    "tips": "满30减10，满45减17",
+                    "type": 102
+                },
+                {
+                    "description": "折扣商品5折起",
+                    "icon_color": "f07373",
+                    "icon_name": "折",
+                    "id": 1904047938,
+                    "name": "单品折扣",
+                    "tips": "单品折扣"
+                },
+                {
+                    "description": "特价商品3元起",
+                    "icon_color": "f1884f",
+                    "icon_name": "换",
+                    "id": 1494993377,
+                    "name": "超值换购",
+                    "tips": "超值换购"
+                }
+            ],
+            "address": "北京昌平区回龙观镇风雅园三区3号楼",
+            "authentic_id": 3384259570352166,
+            "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"30减10\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"45减17\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"品质联盟\", \"border\": \"4ce23028\", \"background\": null, \"type\": 4, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"3元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}], \"ad_info\": null}",
+            "delivery_fee_discount": 0,
+            "description": "田老师红烧肉，尝到家的味道！\n主营盖饭，种类虽“不多”，口味蛮“家常”，且配菜丰富。主菜里招牌红烧肉果然名不虚传，宫保鸡丁、卤肉饭等也都不错。出菜速度快，价格又实惠！",
+            "distance": 3302,
+            "favored": false,
+            "flavors": [
+                {
+                    "id": 265,
+                    "name": "简餐"
+                },
+                {
+                    "id": 237,
+                    "name": "地方小吃"
+                }
+            ],
+            "float_delivery_fee": 8,
+            "float_minimum_order_amount": 20,
+            "folding_restaurant_brand": "田老师红烧肉",
+            "folding_restaurants": [
+                {
+                    "distance": 3332,
+                    "id": "E14927895249536502892",
+                    "name": "田老师红烧肉（回龙观三店）",
+                    "order_lead_time": 34,
+                    "scheme": "https://h5.ele.me/shop/#id=E14927895249536502892",
+                    "type": 0
+                },
+                {
+                    "distance": 4081,
+                    "id": "E4349856266949305129",
+                    "name": "田老师红烧肉（回龙观二店）",
+                    "order_lead_time": 31,
+                    "scheme": "https://h5.ele.me/shop/#id=E4349856266949305129",
+                    "type": 0
+                },
+                {
+                    "distance": 4223,
+                    "id": "E1727073550537901543",
+                    "name": "田老师红烧肉（昌平生命科学园店）",
+                    "order_lead_time": 38,
+                    "scheme": "https://h5.ele.me/shop/#id=E1727073550537901543",
+                    "type": 0
+                },
+                {
+                    "distance": 4351,
+                    "id": "E840160266005207944",
+                    "name": "田老师红烧肉(回龙观禧乐汇店)",
+                    "order_lead_time": 31,
+                    "scheme": "https://h5.ele.me/shop/#id=E840160266005207944",
+                    "type": 0
+                },
+                {
+                    "distance": 6176,
+                    "id": "E13955650082819232824",
+                    "name": "田老师红烧肉(回龙观东大街店)",
+                    "order_lead_time": 35,
+                    "scheme": "https://h5.ele.me/shop/#id=E13955650082819232824",
+                    "type": 0
+                }
+            ],
+            "has_story": false,
+            "id": "E4491184076714721146",
+            "image_path": "https://fuss10.elemecdn.com/f/8c/a0243ff6b05f952b127524b5bf99ajpeg.jpeg",
+            "is_new": false,
+            "is_premium": true,
+            "is_star": false,
+            "is_stock_empty": 0,
+            "is_valid": 1,
+            "latitude": 40.079337,
+            "longitude": 116.322751,
+            "max_applied_quantity_per_order": -1,
+            "name": "田老师红烧肉（回龙观一店）",
+            "next_business_time": "明天 10:00",
+            "only_use_poi": false,
+            "opening_hours": [
+                "10:00/23:55"
+            ],
+            "order_lead_time": 42,
+            "out_of_range": false,
+            "phone": "18301407852 18600443270 18301407852",
+            "piecewise_agent_fee": {
+                "description": "远距离配送费¥8",
+                "extra_fee": 3,
+                "is_extra": true,
+                "no_subsidy_fee": "",
+                "rules": [
+                    {
+                        "fee": 8,
+                        "price": 20
+                    }
+                ],
+                "tips": "远距离配送费¥8"
+            },
+            "platform": 0,
+            "posters": [],
+            "promotion_info": "尊敬的顾客您好！由于厂家乌梅汁无法供货，餐厅所有套餐饮料均由酸梅汤代替，在更替期间乌梅汁和酸梅汤会随机配送，给您带来的不便敬请谅解，谢谢您的支持！",
+            "rating": 4.8,
+            "rating_count": 1310,
+            "recent_order_num": 2823,
+            "recommend": {
+                "color": "#e8470b",
+                "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+                "is_ad": false,
+                "reason": "口碑人气好店"
+            },
+            "recommend_reasons": [
+                {
+                    "name": "味道超赞"
+                },
+                {
+                    "name": "回头客多"
+                }
+            ],
+            "regular_customer_count": 0,
+            "scheme": "https://h5.ele.me/shop/#id=E4491184076714721146",
+            "status": 1,
+            "support_tags": [
+                {
+                    "border": "dddddd",
+                    "color": "666666",
+                    "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                    "text": "简餐",
+                    "type": 1
+                },
+                {
+                    "border": "dddddd",
+                    "color": "333333",
+                    "text": "品质联盟"
+                }
+            ],
+            "supports": [
+                {
+                    "border": "90dddddd",
+                    "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                    "icon_color": "999999",
+                    "icon_name": "票",
+                    "id": 4,
+                    "name": "开发票",
+                    "text_color": "666666",
+                    "two_characters_icon_name": "发票"
+                }
+            ],
+            "tags": [],
+            "target_tag_path": "d53fc0cb4dc67973038cbc591938a1b6png",
+            "theme": {
+                "default_color": "2395ff",
+                "header_style": 0,
+                "hongbao_style": 0,
+                "price_color": "ff5339",
+                "third_tab_name": "商家",
+                "vanish_fields": []
+            },
+            "type": 0
+        }
+    },
+    {
+        "restaurant": {
+            "act_tag": 0,
+            "activities": [
+                {
+                    "attribute": "17.0",
+                    "description": "新用户下单立减17元",
+                    "icon_color": "70bc46",
+                    "icon_name": "首",
+                    "id": 1977791979,
+                    "is_exclusive_with_food_activity": true,
+                    "name": "新用户立减(不与其他活动共享)",
+                    "tips": "新用户下单立减17元",
+                    "type": 103
+                },
+                {
+                    "attribute": "{\"88\": {\"1\": 23.0, \"0\": 0}, \"57\": {\"1\": 18.0, \"0\": 0}, \"27\": {\"1\": 10.0, \"0\": 0}, \"108\": {\"1\": 25.0, \"0\": 0}, \"37\": {\"1\": 14.0, \"0\": 0}}",
+                    "description": "满27减10，满37减14，满57减18，满88减23，满108减25",
+                    "icon_color": "f07373",
+                    "icon_name": "减",
+                    "id": 1952898250,
+                    "is_exclusive_with_food_activity": true,
+                    "name": "杨国福",
+                    "tips": "满27减10，满37减14，满57减18，满88减23，满108减25",
+                    "type": 102
+                },
+                {
+                    "description": "折扣商品5折起",
+                    "icon_color": "f07373",
+                    "icon_name": "折",
+                    "id": 1943968347,
+                    "name": "周末大牌日",
+                    "tips": "周末大牌日"
+                },
+                {
+                    "description": "特价商品5元起",
+                    "icon_color": "f1884f",
+                    "icon_name": "惠",
+                    "id": 1913356457,
+                    "name": "周一特惠日",
+                    "tips": "周一特惠日"
+                }
+            ],
+            "address": "北京市昌平区回龙观镇朱辛庄（北京市北郊化工实业总公司院内）",
+            "authentic_id": 4314299573933346,
+            "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"27减10\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"37减14\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"57减18\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"88减23\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"108减25\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"7元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"品质联盟\", \"border\": \"4ce23028\", \"background\": null, \"type\": 4, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"首单减17\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}], \"ad_info\": null}",
+            "delivery_fee_discount": 3,
+            "description": "即日起，凡到本店用餐的顾客，出示学生卡即刻享受折扣优惠＋赠送主食一份",
+            "distance": 501,
+            "favored": false,
+            "flavors": [
+                {
+                    "id": 214,
+                    "name": "麻辣烫"
+                }
+            ],
+            "float_delivery_fee": 1.5,
+            "float_minimum_order_amount": 15,
+            "has_story": false,
+            "id": "E11782492550641203992",
+            "image_path": "https://fuss10.elemecdn.com/0/f7/26f44c0fef6afc5a5adf9b8b3f968jpeg.jpeg",
+            "is_new": false,
+            "is_premium": false,
+            "is_star": false,
+            "is_stock_empty": 0,
+            "is_valid": 1,
+            "latitude": 40.098537,
+            "longitude": 116.309386,
+            "max_applied_quantity_per_order": -1,
+            "name": "杨国福麻辣烫",
+            "next_business_time": "明天 10:00",
+            "only_use_poi": false,
+            "opening_hours": [
+                "10:00/21:30"
+            ],
+            "order_lead_time": 39,
+            "out_of_range": false,
+            "phone": "18600532992",
+            "piecewise_agent_fee": {
+                "description": "配送费¥1.5",
+                "extra_fee": -1.5,
+                "is_extra": true,
+                "no_subsidy_fee": "¥4.5",
+                "rules": [
+                    {
+                        "fee": 1.5,
+                        "price": 15
+                    }
+                ],
+                "tips": "配送费¥1.5"
+            },
+            "platform": 0,
+            "posters": [],
+            "promotion_info": "亲爱的顾客朋友们，由于过年期间我店人手不足，可能出现出餐慢，少送漏送等个别现象，如您发现所点的外卖有问题，请电话与我们联系（18600532992），非常抱歉，谢谢您的支持，请手下留情！最后，祝大家新年快乐。。。",
+            "rating": 4.6,
+            "rating_count": 5613,
+            "recent_order_num": 4145,
+            "recommend": {
+                "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg",
+                "is_ad": false,
+                "track": "{\"rankType\":\"28\",\"trafficCardId\":\"1701842\"}"
+            },
+            "recommend_reasons": [
+                {
+                    "name": "味道超赞"
+                }
+            ],
+            "regular_customer_count": 0,
+            "scheme": "https://h5.ele.me/shop/#id=E11782492550641203992",
+            "status": 1,
+            "support_tags": [
+                {
+                    "border": "dddddd",
+                    "color": "666666",
+                    "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+                    "text": "麻辣烫",
+                    "type": 1
+                },
+                {
+                    "border": "dddddd",
+                    "color": "333333",
+                    "text": "品质联盟"
+                }
+            ],
+            "supports": [
+                {
+                    "border": "90dddddd",
+                    "description": "商家原因导致订单取消，赔付代金券",
+                    "icon_color": "999999",
+                    "icon_name": "赔",
+                    "id": 10,
+                    "name": "拒单赔",
+                    "text_color": "666666",
+                    "two_characters_icon_name": ""
+                },
+                {
+                    "border": "90dddddd",
+                    "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+                    "icon_color": "999999",
+                    "icon_name": "保",
+                    "id": 7,
+                    "name": "食安保",
+                    "text_color": "666666",
+                    "two_characters_icon_name": "保险"
+                },
+                {
+                    "border": "90dddddd",
+                    "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                    "icon_color": "999999",
+                    "icon_name": "票",
+                    "id": 4,
+                    "name": "开发票",
+                    "text_color": "666666",
+                    "two_characters_icon_name": "发票"
+                }
+            ],
+            "tags": [],
+            "theme": {
+                "default_color": "2395ff",
+                "header_style": 0,
+                "hongbao_style": 0,
+                "price_color": "ff5339",
+                "third_tab_name": "商家",
+                "vanish_fields": []
+            },
+            "type": 0
+        }
+    }
+]

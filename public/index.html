@@ -1,0 +1,43 @@
+<!-- 告诉浏览器按照HTML5规范解析页面 -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- 表单输入内容的时候不会放大 -->
+  <meta name="viewport"
+    content="width=device-width,initial-scale=1.0, maximum-scale=1,minimum-scale=1,user-scalable=no" />
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <title>ele-app</title>
+  <!-- 引入初始化css -->
+  <link rel="stylesheet" href="css/reset.css">
+  <!-- 公共的图标 -->
+  <link href="css/font-awesome.min.css" rel="stylesheet" />
+  <!-- 引入高德地图,用于获取定位 -->
+  <script type="text/javascript">
+    window._AMapSecurityConfig = {
+      securityJsCode: 'da63712d14bcf7ba53ee2c46c4ada197',
+    }
+  </script>
+  <script type="text/javascript" src="https://webapi.amap.com/maps?v=2.0&key=cc0e2f3a88872318e319dbe868057609"></script>
+  <!-- 为了移动端布局添加的css -->
+  <style>
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but ele-app doesn't work properly without JavaScript enabled. Please enable it to
+      continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+</body>
+
+</html>

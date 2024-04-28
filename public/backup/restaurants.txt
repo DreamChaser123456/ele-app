@@ -1,0 +1,51 @@
+CREATE TABLE restaurants (
+    id TEXT PRIMARY KEY,
+    restaurant TEXT, -- 储存整个restaurant对象的JSON字符串
+    address TEXT,
+    authentic_id INTEGER,
+    business_info TEXT, -- 由于business_info也是一个嵌套结构，将其存储为JSON字符串
+    delivery_fee_discount INTEGER,
+    delivery_mode TEXT, -- 储存JSON字符串
+    description TEXT,
+    distance INTEGER,
+    favored BOOLEAN,
+    flavors TEXT, -- 储存JSON字符串
+    float_delivery_fee REAL,
+    float_minimum_order_amount REAL,
+    has_story BOOLEAN,
+    activities TEXT, -- 储存整个activities数组的JSON字符串
+    image_path TEXT,
+    is_new BOOLEAN,
+    is_premium BOOLEAN,
+    is_star BOOLEAN,
+    is_stock_empty INTEGER,
+    is_valid INTEGER,
+    latitude REAL,
+    longitude REAL,
+    max_applied_quantity_per_order INTEGER,
+    name TEXT,
+    next_business_time TEXT,
+    only_use_poi BOOLEAN,
+    opening_hours TEXT, -- 储存JSON字符串，如["10:30/20:00"]
+    order_lead_time INTEGER,
+    out_of_range BOOLEAN,
+    phone TEXT,
+    piecewise_agent_fee TEXT, -- 储存JSON字符串
+    platform INTEGER,
+    posters TEXT, -- 由于posters可能包含多个元素，将其存储为JSON字符串
+    promotion_info TEXT,
+    rating REAL,
+    rating_count INTEGER,
+    recent_order_num INTEGER,
+    recommend TEXT, -- 储存JSON字符串
+    recommend_reasons TEXT, -- 储存JSON字符串
+    regular_customer_count INTEGER,
+    scheme TEXT,
+    status INTEGER,
+    support_tags TEXT, -- 储存JSON字符串
+    supports TEXT, -- 储存JSON字符串
+    tags TEXT, -- 储存JSON字符串
+    target_tag_path TEXT,
+    theme TEXT, -- 储存JSON字符串
+    type INTEGER
+);

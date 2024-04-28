@@ -1,0 +1,26 @@
+{
+    "info": "OK",
+    "regeocode": {
+        "addressComponent": {
+            "citycode": "0571",
+            "adcode": "330127",
+            "businessAreas": [],
+            "neighborhoodType": "",
+            "neighborhood": "",
+            "building": "",
+            "buildingType": "",
+            "street": "",
+            "streetNumber": "",
+            "country": "中国",
+            "province": "浙江省",
+            "city": "杭州市",
+            "district": "淳安县",
+            "towncode": "330127102000",
+            "township": "石林镇"
+        },
+        "formattedAddress": "浙江省杭州市淳安县石林镇621县道",
+        "roads": [],
+        "crosses": [],
+        "pois": []
+    }
+}
